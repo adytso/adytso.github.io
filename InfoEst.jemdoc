@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{index.html}
+= Interplay Between Information Theory and Estimation Theory
+
+== Brief Overview 
+
+The identities or bounds that relate information measures (e.g., the entropy and mutual information) and estimation measures (e.g., the minimum means square error (MMSE) and the Bregman divergence) have been used successfully in various fields of engineering and applied mathematics. Such relations include identities like de Bruijn’s identity (connecting derivative of the differential entropy and the Fisher information), the I-MMSE identity (connecting the mutual information and the MMSE), the mutual information and the Bregman divergence identity, and bounds like the continuous versions of Fano’s inequality (connecting the differential conditional entropy and various estimation measures), and Stam’s inequality relating the entropy-power and the Fisher information.
+In applied probability, such identities have been useful in deriving concentration inequalities. In machine learning, such tools have been used to characterize the performance of clustering algorithms and certain neural networks. In information theory, such tools have been used to characterize and gain new insights into the capacity (i.e., the maximum reliable rate) of multi-user networks.
+
+
+ 
+
+== Tutorial Papers
+- Dytso, A.;  Bustin, R.;  Poor, H. V.;  Shamai,  S. (Shitz), “A View of Information - Estimation Relations in Gaussian Networks,” Entropy, Vol. 19, No. 8, August 2017.
+
+== Preprints
+
+- A. Dytso, H. V. Poor, and S. Shamai (Shitz), [https://arxiv.org/abs/2104.01883 ``A General Derivative Identity for the Conditional Mean Estimator in Gaussian Noise and Some Applications,]"  /submitted to IEEE Transactions on Information Theory/, arXiv:2104.01883.
+
+== Journal Papers
+. A. Dytso, M. Al, H. V. Poor, S. Shamai (Shitz), “On the Capacity of the Peak Power Constrained Vector Gaussian Channel: An Estimation Theoretic Perspective, /IEEE Transactions on Information Theory/, vol.65, no.6, June 2019.
+. A. Dytso, M. Fauß, A. M. Zoubir, H. V. Poor, “MMSE Bounds for Additive Noise Channels Under Kullback-Leibler Divergence Constraints on the Input Distribution,” IEEE Transactions on Signal Processing, Vol. 67, No. 24, December 2019.
+.  A. Dytso, R. Bustin, D. Tuninetti, N. Devroye, H. V. Poor, S. Shamai (Shitz), “On the Minimum Mean p-th Error in Gaussian Noise Channels and its Applications,” /IEEE Transactions on Information Theory/, Vol. 64, No. 3, March 2018.
+ . A. Dytso, R. Bustin, D. Tuninetti, N. Devroye, H. V. Poor, S. Shamai (Shitz), “On Communication through a Gaussian Channel with an MMSE Disturbance Constraint,” /IEEE Transactions on Information Theory/, Vol. 64, No. 1, January 2018.
+
+== Conference Papers 
+.  A. Dytso,  M. Cardone, “A General Derivative Identity for the Conditional Expectation with Focus on the Exponential Family,” IEEE Information Theory Workshop (ITW), Kanazawa, Japan, October 2021. 
+. A. Dytso, H. V. Poor, and S. Shamai (Shitz), “On the Distribution of the Conditional Mean Estimator in Gaussian Noise,” IEEE Information Theory Workshop (ITW), Riva del Garda, Italy, April 2021.
+. M. Fauss, A. Dytso,   A.M. Zoubir,  H. V. Poor, “Tight MMSE Bounds for the AGN Channel Under KL Divergence Constraints on the Input Distribution,” IEEE Statistical Signal Processing Workshop, Freiburg, Germany, 2018.
+. A. Dytso, R. Bustin, H. V. Poor, S.  Shamai, “On the Structure of the Least Favorable Prior Distributions,” IEEE International Symposium on Information Theory (ISIT), Vail, USA, June 2018.
+. G. Reeves, H. D. Pfister, A. Dytso, “Mutual Information as a Function of Matrix SNR for Linear Gaussian Channels,” IEEE International Symposium on Information Theory (ISIT), Vail, USA, June 2018.
+. A. Dytso, R. Bustin, H. V. Poor, S.  Shamai, “On the Equality Condition for the I-MMSE Proof of the Entropy Power Inequality,” 55th Annual Allerton Conference on in Communication, Control, and Computing (Allerton), Monticello, USA, October 2017.
+. A. Dytso, R. Bustin, D. Tuninetti, N. Devroye, H. V. Poor, S. Shamai (Shitz), “On the Minimum Mean p-th Error in Gaussian Noise Channels and its Applications,” IEEE International Symposium on Information Theory (ISIT), Barcelona, Spain, June 2016.
+. A. Dytso, R. Bustin, D. Tuninetti, N. Devroye, H. V. Poor, S. Shamai (Shitz),  ``On the minimum mean p-th error in Gaussian noise channels and its applications,'' /IEEE International Symposium on Information Theory (ISIT)/ ,  June 2016.
+ . A. Dytso, R. Bustin, D. Tuninetti, N. Devroye, H. V. Poor, S. Shamai (Shitz), “On Communications Through a Gaussian Noise Channel with an MMSE Disturbance Constraint,” IEEE International Symposium on Information and its Applications (ITA), San Diego, USA, February 2016.

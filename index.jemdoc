@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{index.html}
+= Alex Dytso 
+
+~~~ 
+{}{img_left}{pics\adphotov2.jpg}{alt text}{242.87}{243.75}{IMGLINKTARGET}
+~~~ 
+
+*Alex Dytso* \n
+\n
+*Senior Staff Engineer at Qualcomm*
+
+*Contact*
+ Email: odytso2@gmail.com
+
+
+
+
+== Short Bio
+
+I am currently a Senior Staff Engineer at Qualcomm Flarion and a Visiting Scholar in the Department of Electrical and Computer Engineering at Princeton University. I was previously an Assistant Professor in the Department of Electrical and Computer Engineering at the New Jersey Institute of Technology (NJIT). \n
+
+From  September 2016 to  August 2020, I was a Postdoctoral Researcher in the Department of Electrical Engineering at Princeton University, working under the supervision of [http://ee.princeton.edu/people/faculty/h-vincent-poor Professor H. Vincent Poor]. \n
+
+In 2018 I was  a Lecturer in the Department of Operations Research & Financial Engineering at Princeton University. 
+
+I received my Ph.D. from the  Department of Electrical and Computer Engineering  at  the University of Illinois at Chicago (UIC). I was lucky to have [https://nicest.lab.uic.edu/pr3ofiles/tuninetti-daniela/ Professor Daniela Tuninetti] and [http://www.ece.uic.edu/bin/view/Devroye/WebHome Professor Natasha Devroye] as my advisors. 
+
+== Research Interests
+I am broadly interested in the theoretical foundations of information processing, learning, and decision making, with particular emphasis on:
+- Information Theory
+- Estimation Theory
+- Wireless Communications
+- Optimization Theory
+- Computer Vision
+
+
+== Recent Publications 
+
+- J. Shah, M. Cardone, A. Dytso "Functional Properties of the Focal-Entropy," /The 27th International Conference on Artificial Intelligence and Statistics (AISTATS)/, Tangier, Morocco, May, 2026.
+- M. B. Mohajer, A. Dytso, D. Tuninetti, and L. Barletta "Fundamental Limits of ISAC for Vehicular Lane Identification: A Rate-Distortion Approach," /International Symposium on Joint Communications & Sensing/, Ponte di Legno, Italy, January, 2026.
+- H. Wang, L. Barletta, A. Dytso, "[https://ieeexplore.ieee.org/document/11536072 An Improved Lower Bound on Cardinality of Support of the Amplitude-Constrained AWGN Channel]," /IEEE Transactions on Information Theory/, early access, 2026. DOI: [https://ieeexplore.ieee.org/document/11536072 10.1109/TIT.2026.3697668].
+- L. Barletta, A. Dytso, "[https://www.mdpi.com/1099-4300/28/5/500 Support Size of $ε$-Capacity-Achieving Inputs for the Amplitude-Constrained AWGN Channel]," /Entropy/, vol. 28, no. 5, pp. 2026. DOI: [https://www.mdpi.com/1099-4300/28/5/500 10.3390/e28050500].
+- A. Favano, L. Barletta, A. Dytso, G. Kramer, "[https://ieeexplore.ieee.org/document/10981786 Non-Coherent Rayleigh Fading Channels: Properties of the Capacity-Achieving Input]," /IEEE Transactions on Information Theory/, vol. 71, no. 7, pp. 5258 - 5276, 2025. DOI: [https://ieeexplore.ieee.org/document/10981786 10.1109/TIT.2025.3565653].
+- M. Jeong, A. Dytso, M. Cardone, "[https://ieeexplore.ieee.org/abstract/document/10884827 A Comprehensive Study on Ziv-Zakai Lower Bounds on the MMSE]," /IEEE Transactions on Information Theory/, vol. 71, no. 4, pp. 3214-3236, 2025. DOI: [https://ieeexplore.ieee.org/abstract/document/10884827 10.1109/TIT.2025.3541987].
+- L. Barnes, A. Dytso, J. Liu, H. V. Poor, "[https://ieeexplore.ieee.org/document/10639469 $L^1$ Estimation: On the Optimality of Linear Estimators]," /IEEE Transactions on Information Theory/, vol. 70, no. 11, pp. 8026-8039, 2024. DOI: [https://ieeexplore.ieee.org/document/10639469 10.1109/TIT.2024.3440929].
+
+
+
+

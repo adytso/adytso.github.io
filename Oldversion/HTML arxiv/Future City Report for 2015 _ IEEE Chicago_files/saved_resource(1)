@@ -1,0 +1,28 @@
+div.jumbotron.banner h2.site-description{
+  color:white;
+  font-size:100%;
+}
+div.jumbotron.banner h1.site-title{
+  font-size:200%;
+}
+div.jumbotron.banner {
+  padding-top:0px;
+  padding-bottom:0px;
+}
+div.global-nav.jumbotron {
+  background-color:#006699;
+}
+/* vTools WebInAbox Feed formatting */
+
+div.feed_unit {margin-bottom:15px;}
+.feed_unit_prop {display:block;}
+.feed_unit_officer_prop {display:block;}
+.feed_unit_officer_ident_label {display:block;margin-top:8px;}
+
+span.feed_unit_officer_ident_label, span.feed_unit_ident_label {
+ background-image:url(http://sites.ieee.org/files/2015/07/form_bg1.jpg);
+ background-repeat:repeat-x; 
+ border:1px solid #d1c7ac; width: 230px; color:#333333; 
+ padding:3px; margin-right:4px; margin-bottom:8px; 
+ font-family:tahoma, arial, sans-serif;
+}

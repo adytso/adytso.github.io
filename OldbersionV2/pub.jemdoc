@@ -1,0 +1,72 @@
+# jemdoc: menu{MENU}{index.html}
+= Publications  
+
+For an up to date list please see  my [https://scholar.google.com/citations?user=oVxK8g0AAAAJ&hl=en Google Scholar page] and [https://arxiv.org/search/?searchtype=author&query=Dytso%2C+A arXiv].
+
+== Preprints
+- A. Dytso, L. Barletta, S. Shamai (Shitz), ``[https://arxiv.org/abs/2104.14431 ``Properties of the Support of the Capacity-Achieving Distribution of the Amplitude-Constrained Poisson Noise Channel"]     arXiv:2104.14431.  
+- M. Fauß, A. Dytso, H. V. Poor, “MMSE Bounds Under Kullback-Leibler
+Divergence Constraints on the Joint Input-Output Distribution,” arXiv:2006.03722.
+-  A. Dytso, M. Fauß, H. V. Poor, “A Class of Lower Bounds for Bayesian Risk with a Bregman Loss,” arXiv:2001.10982.
+-  A. Dytso, M. Cardone, H. V. Poor, ``On Estimation under Noisy Order Statistics,”  arXiv:1901.06294. 
+
+
+
+
+== Journal Papers
+.  W. Cao, A. Dytso, M. Fauß,  G. Feng, H. V. Poor,  Finite-Sample Bounds on the Accuracy of Plug-In Estimators of Fisher Informations," /Entropy/,   Vol.~23, No.~5, April 2021.
+. M. Jeong, A. Dytso, M. Cardone, H. V. Poor,  ``Recovering Data Permutation from Noisy Observations: The Linear Regime,"  /IEEE Journal on Selected Areas in Information Theory/, Vol.~1, No.~3, Nov. 2020.
+. M. Fauß,  A. Dytso, H. V.  Poor, ``A Variational Interpretation of the Cramer-Rao Bound,"   /Signal Processing, Elsevier/,  Vol. 182, 2020  .
+. M. Jeong,  A. Dytso, M. Cardone  ``Gradient of Error Probability of M-ary Hypothesis Testing Problems Under Multivariate Gaussian Noise," /IEEE Signal Processing Letters/, Vol.~27, October 2020.
+. A. Dytso, M. Fauß,  H. V.  Poor, ``The Vector Poisson Channel: On the Linearity of the Conditional Mean Estimator,"  /IEEE Transactions on Signal Processing/,   Vol. 68, September 2020.  
+.  A. Dytso,  H. V. Poor,  ``Estimation in Poisson Noise: Properties of the Conditional Mean Estimator,"  /IEEE Transactions on Information Theory/, 	Vol. 66, No. 7, July 2020.
+. W. Cao, A. Dytso, M. Fauß, G. Feng, H. V. Poor, “Robust Power Allocation for Parallel Gaussian Channels with Approximately Gaussian Input Distributions,” /IEEE Transactions on Wireless Communications/, Vol. 19, No. 6, June 2020.
+. A. Dytso, S. Yagli, H. V. Poor, and S. Shamai (Shitz),“The Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel: An Upper Bound on the Number of Mass Points,”  /IEEE Transactions on Information Theory/, Vol. 66, No. 4, April 2020.
+. A. Dytso, M. Fauss, A. M. Zoubir, H. V. Poor, ``MMSE Bounds for Additive Noise Channels Under Kullback-Leibler Divergence Constraints on the Input Distribution,'' /IEEE Transactions on Signal Processing/, Vol. 67, No. 24, 2019.
+. Dytso, A.;  Cardone, M.; Poor, H. V.; “On Estimating the Norm of a Gaussian Vector under Additive White Gaussian Noise,”  /IEEE Signal Processing Letters/, Vol. 26, No. 9, September 2019.
+. W. Cao, A. Dytso, Y. Shkel, G. Feng, H. V. Poor, “Sum-Capacity of the MIMO Many-Access Gaussian Noise Channel,” /IEEE Transactions on Communications/, Vol. 67, No. 8, August 2019.
+. A. Dytso, M. Goldenbaum, H. V. Poor, S. Shamai (Shitz), “Amplitude Constrained MIMO Channels: Properties of Optimal Input Distributions and Bounds on the Capacity,” /Entropy/, Vol. 21, No. 2, February 2019.
+. A. Dytso, H. V. Poor, S. Shamai (Shitz), “On the Capacity of the Peak Power Constrained Vector Gaussian Channel: An Estimation Theoretic Perspective,”  /IEEE Transactions on Information Theory/, Vol. 65, No. 6, June 2019.
+. A. Dytso, R. Bustin, H. V. Poor, S. Shamai (Shitz), “Analytical Properties of Generalized Gaussian Distributions,” Journal of Statistical Distributions and Applications, 5:6, 2018.
+. Cao, W.;  Dytso, A.;  Feng, G.;   Poor, H. V.;  Chen, Z.; “Differentiated Service-Aware Group-Paging for Massive Machine-Type Communications,” /IEEE Transactions on Communications/, DOI: 10.1109/TCOMM.2018.2848940
+. Dytso, A.; Bustin, R.; Tuninetti, D.;  Devroye, N.; Poor, H.V.;  Shamai, S., “On the Minimum Mean p-th Error in Gaussian Noise Channels and its Applications,” /IEEE Transactions on Information Theory/, Vol. 64, No. 3, March 2018.
+. Dytso, A.; Bustin, R.; Tuninetti, D.;  Devroye, N.; Poor, H.V.;  Shamai, S., “On Communication through a Gaussian Channel with an MMSE Disturbance Constraint,” /IEEE Transactions on Information Theory/, Vol. 64, No. 1, January 2018.
+. Dytso, A.;  Bustin, R.;  Poor, H. V.;  Shamai,  S. (Shitz);, “A View of Information- Estimation Relations in Gaussian Networks,” /Entropy/, Vol. 19, No. 8, August 2017.
+. Dytso, A.; Tuninetti, D.; Devroye, N.,  “Interference as Noise: Friend or Foe?," /IEEE Transactions on Information Theory/, vol.13, no.12, Dec. 2016. [papers\TINv2.pdf New Version], [papers\FixMeasure.pdf Correction].
+. Dytso, A.; Tuninetti, D.; Devroye, N., ``On the Two-User Interference Channel With Lack of Knowledge of the Interference Codebook at One Receiver,"  /IEEE Transactions on Information Theory/, vol.61, no.3, pp.1257-1276, March 2015.
+. Dytso, A.; Rini, S.; Devroye, N.; Tuninetti, D., ``On the Capacity Region of the Two-User Interference Channel With a Cognitive Relay,"  /IEEE Transactions on Wireless Communications/, vol.13, no.12, pp.6824-6838, Dec. 2014.
+
+== Conference Papers
+. M. Fauß, A. Dytso, H. V. Poor, “A Variational Proof of the Cram ́er–Rao Bound,” 54th Annual Conference on Information Sciences and Systems (CISS), Princeton, USA, March 2019, (invited).
+. A. Dytso and H. V. Poor, “An Empirical Bayes Approach to Partially Labeled and Shuffled Data Sets,” 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020, (invited), to appear.
+. A. Dytso and H. V. Poor, “On Stability of Linear Estimators in Poisson Noise,” /Asilomar Conference on Signal, Systems, and Control/, Pacific Grove, CA, USA, October 2019.
+. W. Cao, A. Dytso, M. Fauss, G. Feng, and H. V. Poor, “Robust Power Allocation for Parallel Gaussian Channels with Approximately Gaussian Input Distributions,” /IEEE Global Communications Conference (GLOBECOM)/, Hawaii, USA, December 2019, to appear.
+. A. Dytso and H. V. Poor, “Properties of The Conditional Mean Estimator in Poisson Noise,” /IEEE Information Theory Workshop (ITW)/, Visby, Gotland, Sweden, August 2019.
+. S. Yagli, A. Dytso, H. V. Poor, “Estimation of Bounded Normal Mean: An Alternative Proof for the Discreteness of the Least Favorable Prior,” /IEEE Information Theory Workshop (ITW)/, Visby, Gotland, Sweden, August 2019.
+. M. Fauss, A. M. Zoubir, A. Dytso, H. Vincent Poor, Nagananda K. G, “Tight Bounds on the Weighted Sum of MMSEs with Applications in Distributed Estimation,” /IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, Cannes, France, July 2019.
+. S. Yagli, A. Dytso, H. V. Poor, S. Shamai (Shitz), “An Upper Bound on the Number of Mass Points in the Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel,” /IEEE International Symposium on Information Theory (ISIT)/, Paris, France, June 2019.
+. A. Dytso, M. Cardone, M. S. Veedu, H. V. Poor, “On Estimation under Noisy Order Statistics,” /IEEE International Symposium on Information Theory (ISIT)/, Paris, France, June 2019.
+. W. Cao, A. Dytso, Y. Shkel, G. Feng, H. V. Poor, “Sum-Capacity of the MIMO Gaussian Many-Access Channel,” /IEEE International Conference on Communications (ICC)/, Shanghai, China, May 2019.
+. S. Yagli, A. Dytso, H. V. Poor, S. Shamai (Shitz), “Some Aspects of Totally Positive Kernels Useful in Information Theory,” /IEEE Wireless Communications and Networking Conference (WCNC)/, Marrakech, Morocco, April 2019, invited.
+. A. Dytso, R. Bustin, H. V. Poor, S. Shamai (Shitz), “On Lossy Compression of Generalized Gaussian Sources,” /IEEE International Conference on the Science of Electrical Engineering (ICSEE)/, Eilat, Israel, December 2018.
+. W. Cao, A. Dytso, G. Feng, H. V. Poor, Z. Chen, “Group Paging for Massive Machine-Type Communications with Diverse Access Requirements,” /IEEE Global Communications Conference (GLOBECOM)/, Abu Dhabi, UAE, December 2018.
+. A. Dytso, H. V. Poor, S. Shamai (Shitz), “Capacity of the Vector Gaussian Channel in the Small Amplitude Regime,” IEEE Information Theory Workshop (ITW), Guangzhou, China, November 2018.
+. A. Dytso, M. Egan, S. M. Perlaza, H. V. Poor, S. Shamai (Shitz), “Optimal Inputs for Some Classes of Degraded Wiretap Channels,” IEEE Information Theory Workshop (ITW), Guangzhou, China, November 2018.
+. Fauss, M.; Dytso, A.;   Zoubir A.M.;  Poor H. V., “Tight MMSE Bounds for the AGN Channel Under KL Divergence Constraints on the Input Distribution,” IEEE Statistical Signal Processing Workshop, Freiburg, Germany, 2018, to appear.
+. Dytso, A.;  Bustin, R.; Poor H. V.;  Shamai, S., “On the Structure of the Least Favorable Prior Distributions,” /IEEE International Symposium on Information Theory (ISIT)/, Vail, USA, June 2018.
+. Dytso, A.;   Goldenbaum, M.; Poor, H.V.;  Shamai, S., ““When Are Discrete Channel Inputs Optimal? - Optimization Methods and New Results,” /52th Annual Conference on Information Sciences and Systems (CISS)/, Princeton, USA, March 2017.
+.  Chanyaswad, T.;   Dytso, T.;  Mittal, P.;  and  Poor H. V., “MVG mechanism: Differential privacy under matrix-valued query,” /39th IEEE Symposium on Security and Privacy/, 2017, submitted
+. Dytso, A.;  Bustin, R.; Poor H. V.;  Shamai, S., “On the Equality Condition for the I-MMSE Proof of the Entropy Power Inequality,” /55th Annual Allerton Conference on in Communication, Control, and Computing (Allerton)/, Monticello, USA, October 2017.
+. Dytso, A.;   Goldenbaum, M.; Poor, H.V.;  Shamai, S., “Upper and Lower Bounds on the Capacity of Amplitude-Constrained MIMO Channels,” IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
+ . Dytso, A.;  Bustin, R.; Poor H. V.;  Shamai, S., “On Additive Channels with Generalized Gaussian Noise,” /IEEE International Symposium on Information Theory (ISIT)/, Aachen, Germany, June 2017.
+. Dytso, A,;   Goldenbaum, M.; Poor, H.V.;  Shamai, S., “A Generalized Ozarow-Wyner Capacity Bound with Applications,” /IEEE International Symposium on Information Theory (ISIT)/, Aachen, Germany, June 2017.
+. Dytso, A.; Bustin, R.; Tuninetti, D.;  Devroye, N.; Poor, H.V.;  Shamai, S.,  ``On the minimum mean p-th error in Gaussian noise channels and its applications,'' /IEEE International Symposium on Information Theory (ISIT)/ ,  June 2016.
+. Dytso, A., Devroye, N., Tuninetti, D., ``Nearly optimal non-Gaussian codes for the Gaussian interference channel', /49th Asilomar Conference on Signals, Systems and Computers, / Oct. 2015.
+. Dytso, A., Devroye, N., Tuninetti, D., `` i.i.d. Mixed Inputs and Treating Interference as Noise are gDoF Optimal for the Symmetric Gaussian Two-user Interference Channel ," /IEEE International Symposium on Information Theory (ISIT)/ ,  June 2015.
+. Dytso, A., Tuninetti, D., Devroye, N. " On the Two-user Interference Channel with Partial Codebook Knowledge at one Receiver: Symmetric Capacity to with a Gap with PAM inputs," /IEEE Information Theory Workshop(ITW)/, Jerusalem, Apr. 2015.
+. Dytso, A., Devroye, N., Tuninetti, D., "On Gaussian interference channels with mixed Gaussian and discrete inputs," /IEEE International Symposium on Information Theory (ISIT)/ , vol., no., pp.261,265, June  2014.
+. Dytso, A.; Tuninetti, D.; Devroye, N., "On discrete alphabets for the two-user Gaussian interference channel with one receiver lacking knowledge of the interfering codebook,"  /Information Theory and Applications Workshop (ITA)/, 2014 , vol., no., pp.1-8, 9-14 Feb. 2014.
+. Dytso, A.; Devroye, N.; Tuninetti, D., "On the capacity of interference channels with partial codebook knowledge,"  /  IEEE International Symposium onInformation Theory Proceedings (ISIT)/,  , vol., no., pp.2039-2043, 7-12 July 2013.
+. Dytso, A.; Devroye, N.; Tuninetti, D., "The sum-capacity of the symmetric linear deterministic Complete K-user Z-Interference Channel," /50th Annual Allerton Conference on  in Communication, Control, and Computing (Allerton),/ vol., no., pp.1232-1237, 1-5 Oct. 2012.
+.  Dytso A.,  Devroye, N., and  Tuninetti, D., ``On The Capacity of the Symmetric Interference Channel with a Cognitive Relay at High SNR,’’ /International Conference on Communications (ICC)/, Ottawa, June 2012.
+

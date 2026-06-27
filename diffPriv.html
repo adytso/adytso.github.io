@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Differential Privancy </title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Alex Dytso</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications_updated.html">Publications</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="Courses.html">Courses</a></div>
+<div class="menu-category">Links</div>
+<div class="menu-item"><a href="https://arxiv.org/search/?query=dytso&searchtype=all">arXiv</a></div>
+<div class="menu-item"><a href="https://scholar.google.com/citations?user=oVxK8g0AAAAJ&hl=en&oi=ao">My&nbsp;Google&nbsp;Scholar</a></div>
+<div class="menu-item"><a href="https://www.linkedin.com/in/alex-dytso-60026535?original_referer=https%3A%2F%2Fwww.google.com%2F">LinkedIn</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Differential Privancy </h1>
+</div>
+<h2>Brief Overview </h2>
+<p>Differential privacy has become the gold standard for rigorous privacy guarantees. This has spurred the development of many differentially-private mechanisms for various types of queries. In differential privacy, the standard method for dealing with a matrix-valued query functions is to extend the scalar-valued mechanism by adding independent and identically distributed (i.i.d.) noise to each element of the matrix. However, one can achieve substantial gains by adding correlated noise (directional noise) to the output of the query function. We formalize the study of the matrix-valued differential privacy and present a new basic mechanism that can fully exploit the structural property of the matrices - the Matrix-Variate Gaussian (MVG) mechanism. The high- level concept of the MVG mechanism is simple - adds a matrix-valued noise drawn from a matrix-variate Gaussian distribution scaled to the sensitivity of the query function to provide differential privacy guarantee. Furthermore, we introduce the concept of directional noise made possible by the design of the covariance matrix of the MVG mechanism. Directional noise allows the impact of the noise on the utility of the matrix-valued query function to be moderated by a careful design. We have also demonstrated that the optimal covariance of the directional noise can be designed using water filling algorithm from wireless communications.
+</p>
+<h2>Preprints </h2>
+<ul>
+<li><p>T. Chanyaswad, A. Dytso, P. Mittal, and H. V. Poor, “MVG mechanism: Differential privacy under matrix-valued query,”  arXiv: 1801.00823
+</p>
+</li>
+</ul>
+<h2>Journal</h2>
+<ul>
+<li><p>M. Jeong, A. Dytso, M. Cardone, <a href="https://openreview.net/pdf?id=2EOVIvRXlv" target=&ldquo;blank&rdquo;>&ldquo;Ranking Recovery under Privacy Considerations&rdquo;</a> published in Transactions on Machine Learning Research.
+</p>
+</li>
+</ul>
+<h2>Conference </h2>
+<ul>
+<li><p>T. Chanyaswad, A. Dytso, P. Mittal, and H. V. Poor, “MVG mechanism: Differential privacy under matrix-valued query,” in 39th IEEE Symposium on Security and Privacy, 2017. </p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2026-06-26 23:09:36 CDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

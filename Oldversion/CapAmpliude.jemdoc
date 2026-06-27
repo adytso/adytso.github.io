@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}
+= Capacity of Channels with Amplitude Constraints
+
+== Brief Overview 
+
+Study of the capacity of additive channels with an amplitude constrain (i.e., peak power) on the input. Amplitude constrained channels commonly occur in practice, however, neither capacity nor optimal transmission schemes are unknown for such channels in general. 
+  
+
+
+
+
+
+
+== Journals 
+
+. A. Dytso, S. Yagli, H. V. Poor, S. Shamai (Shitz), `` 
+The Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel: An Upper Bound on the Number of Mass Points,"   /IEEE Transactions on Information Theory/, Vol. 66, No. 4, April 2020.
+ . A. Dytso, M. Al, H. V. Poor, S. Shamai (Shitz), “On the Capacity of the Peak Power Constrained Vector Gaussian Channel: An Estimation Theoretic Perspective, /IEEE Transactions on Information Theory/, vol.65, no.6, June 2019.
+ . A. Dytso, M. Goldenbaum, H. V. Poor, S. Shamai (Shitz), [https://www.mdpi.com/1099-4300/21/2/200 “Amplitude Constrained MIMO Channels: Properties of Optimal Input Distributions and Bounds on the Capacity,”] /Entropy/, vol. 21, no. 2, 2019. 
+
+ == Conference 
+ . S. Yagli, A. Dytso, H. V. Poor, S. Shamai (Shitz), “Some Aspects of Totally Positive Kernels Useful in Information Theory,” IEEE Wireless Communications and Networking Conference (WCNC), Marrakech, Morocco, April 2019, (invited).
+. A. Dytso, M. Goldenbaum, H. V. Poor, S. Shamai (Shitz), “Upper and Lower Bounds on the Capacity of Amplitude-Constrained MIMO Channels,” IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
+. A. Dytso, M. Egan, S. M. Perlaza, H. V. Poor, S. Shamai (Shitz), “Capacity of the Vector Gaussian Channel in the Small Amplitude Regime,” IEEE Information Theory Workshop (ITW), Guangzhou, China, November 2018.

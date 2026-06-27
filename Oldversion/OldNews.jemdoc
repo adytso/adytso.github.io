@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{example.html}
+= News
+
+== 2018
+- I gave a talk at Rutgers University on Generalized Gaussian distributions. Hosted by [http://www.winlab.rutgers.edu/~ryates/ Prof. Roy Yates].
+- We have two papers accepted to the [http://www.itw2018.org/ Information Theory Workshop 2018]
+  -- ``Capacity of the Vector Gaussian Channel in the Small Amplitude Regime" with Shlomo Shamai and H. Vincent Poor.  See [https://www.dropbox.com/s/u5o6k3o21gh6yph/ITW%202018.pdf?dl=0 slides]. 
+  -- ``Optimal Inputs for Some Classes of Degraded Wiretap Channels" with  [https://malcolmalexegan.wordpress.com/author/malcolmegan/ Malcolm Egan], [https://cybernets.inria.fr/collaborators/perlaza/ Samir M. Perlaza],  [http://ee.princeton.edu/people/faculty/h-vincent-poor H. Vincent Poor] and [https://shamai.net.technion.ac.il/shamai_hp.html Shlomo  Shamai]. See [https://malcolmalexegan.files.wordpress.com/2018/11/itw_2018.pdf slides].
+- Our paper titled ``On the Structure of the Least Favorable Prior Distributions" has been presented at  the 2018 IEEE International Symposium on Information Theory in Vail, Colorado. Here is the  link to my  [presentations\ISIT2018.pdf slides].  
+- I gave a talk at the NJIT hosted by [https://web.njit.edu/~jkliewer/wp/ Joerg Kliewer] on my recent work "On the structure of the least favorable distributions." 
+- I gave a talk at the [http://ita.ucsd.edu/workshop/18/?year=18 ITA Graduation Day] with the title
+ 	``On the Structure of the Least Favorable Prior Distributions."
+- I  co-organized a special session ``On Optimal Communications with Discrete Input Signals" at [http://ee-ciss.princeton.edu/ IEEE CISS'18] March 2018 (with Mario Goldenbaum, Shlomo Shamai, and H. Vincent Poor).
+
+
+== 2017
+- I  co-organized the [http://cns2017.ieee-cns.org/workshop/4th-workshop-physical-layer-methods-wireless-security-plmws 4th Workshop on Physical-Layer Methods for Wireless Security] at IEEE CNS ’17, Las Vegas, NV, October 2017 (with Mario Goldenbaum, Rafael F. Schaefer, H. Vincent Poor, and Holger Boche).
+- Please see our recent arxiv submission [https://arxiv.org/pdf/1703.07442.pdf "Comment on the Equality Condition for the I-MMSE Proof of the Entropy Power Inequality."]  
+
+== 2016
+- I  gave a talk at NJIT hosted by [https://web.njit.edu/~simeone/ Osvaldo Simeone].
+- I  gave a talk at Bell Labs. Many thanks to Henry Landau for the invitation. The slides for my talk can be found [presetation/SeminarBellLabsAlexDytso here].
+- I recently gave a seminar at Princeton University on the role of Minimum Mean $p$-th Error. The slides for my talk can be found [presentations/SeminarPrinceton2016.pdf here].
+- I gave a talk at [http://sigproc.eng.cam.ac.uk/ITW2016 IEEE Information Theory Workshop (ITW)]. The slides for my talk can be found [presentations/ITW2016Cambridge.pdf here]. 
+- I gave a seminar  at [http://web.iit.edu/ Illinois Institute of Technology (IIT)] hosted by [http://www.ece.iit.edu/~salim/ Salim El Rouayheb]. The seminar was titled [presentations/IITlecture2016.pdf "Overview and New Advances on the Interplay Between Estimation and Information Measures."]
+- I gave a talk at [http://www.isit2016.org/ 2016 IEEE International Symposium on Information Theory (ISIT)] that took place in a beatiful city of Barcelona. Here is the  link to my [presentations\ISIT2016.pdf slides].  
+- Please see the  [http://arxiv.org/pdf/1607.01461.pdf preprint] of our recent submission to the Transactions on Information Theory.
+- Our paper on the Minimum Mean $p$-th Error has been  accepted to the  [http://sigproc.eng.cam.ac.uk/ITW2016 IEEE Information Theory Workshop (ITW)].
+- Please see the  [http://arxiv.org/abs/1603.07628 preprint] of our  recent submission to Transactions on Information Theory.
+- Our [http://arxiv.org/abs/1506.02597 paper] on the approximate optimality of treating interference as noise has been accepted for publication in Transactions on Information Thoery.
+- I participated as a judge from the IEEE Chicago Section for the Future City Competition.  Pictures are now available at [https://goo.gl/Yf0T4X Flickr].
+
+
+== 2015
+- We are excited to announce that our application to create an Information Theory Chapter in Chicago has been approved by the IEEE.
+- I was invited to give a talk at   [http://www.asilomarsscconf.org/ Asilomar 2015] at a special session on “Interference and Networks.”
+- I gave a talk at [http://www.isit2015.org/ ISIT 2015]. Here is a link to my [presentations\ISIT2015DytsoV3.pdf slides].
+- I gave a poster presentation at ITA 2015 titled ``On the Applications of Mixed and Discrete Inputs for Gaussian Interference Networks". Here is a link to the [https://www.youtube.com/watch?v=gPrj0V_erd4 youtube video.].

@@ -1,0 +1,123 @@
+# jemdoc: menu{MENU}{example.html}
+= News
+
+- /November 2022:/ Papers Accepted:
+  -- M. Cardone, A. Dytso, C. Rush, [https://ieeexplore.ieee.org/document/9936687 "Entropic Central Limit Theorem for Order Statistics,"] /IEEE Transactions on Information Theory/
+  -- A. Dytso, H. Vincent Poor, Shlomo Shamai, [https://ieeexplore.ieee.org/document/9925240 "Conditional Mean Estimation in Gaussian Noise: A Meta Derivative Identity with Applications,"] /IEEE Transactions on Information Theory/
+- /October 2022:/ Papers Accepted:
+-- S. C. Zapico, A. Dytso, L. Rubio, G. Roca, [https://www.mdpi.com/1422-0067/23/18/10686 “The Perfect Match: Assessment of Sample Collection Efficiency for Immunological and Molecular Findings in Different Types of Fabrics,”] /International Journal of Molecular Sciences/, vol. 23, no. 18, 2022.
+- /Septermber 2022:/ Papers Accepted:
+-- A. Dytso, M. Cardone, I. Zieder, [https://ieeexplore.ieee.org/abstract/document/9874834/ ``High-Noise Asymptotics of the Ziv-Zakai Bound,"] to appear in  /IEEE Signal Processing Letters/.
+- /August 2022:/ 
+-- Papers Accepted:
+--- L. P. Barnes, A. Dytso, H. V. Poor, [https://www.mdpi.com/1099-4300/24/9/1178 ``Improved Information-Theoretic Generalization Bounds for Distributed, Federated, and Iterative Learning,"] /Entropy/. 
+-- Recent arxiv papers:
+--- A. Favano, L. Barletta, A. Dytso, [https://arxiv.org/abs/2208.03384 ``Amplitude Constrained Vector Gaussian Wiretap Channel: Properties of the Secrecy-Capacity-Achieving Input Distribution"]
+- /July 2022:/  Papers Accepted
+-- Luca Barletta, Alex Dytso, "Amplitude-Constrained Gaussian Wiretap Channel: Computation of the Optimal Input Distribution," to appear in IEEE MeditCom 2022. 
+-- Minoh Jeong, Alex Dytso, Martina Cardone, [https://openreview.net/pdf?id=2EOVIvRXlv "Ranking Recovery under Privacy Considerations"] published in Transactions on Machine Learning Research. 
+- /May 2022:/ Papers Accepted to [https://www.isit2022.org/ 2022 ISIT]
+-- Ian Zieder, Alex Dytso, Martina Cardone, "An MMSE Lower Bound via Poincare Inequality"
+-- Leighton Barnes, Alex Dytso, H. Vincent Poor, "Improved Information Theoretic Generalization Bounds for Distributed and Federated Learning"
+-- Antonino Favano, Luca Barletta, Alex Dytso, "On the Capacity Achieving Input of Amplitude Constrained Vector Gaussian Wiretap Channel"
+-- Martina Cardone, Alex Dytso, Cynthia Rush, "Entropic CLT for Order Statistics"
+-- Minoh Jeong, Martina Cardone, Alex Dytso, "On the Permutation Recovery From Noisy Observations Up to a Distortion"
+- /February 2022:/  Papers Accepted for Publication:
+-- ``A dimensionality reduction method for finding least-favorable priors with a focus on Bregman divergence" has been accepted to [http://aistats.org/aistats2022/accepted.html The 25th International Conference on Artificial Intelligence and Statistics (AISTATS)].
+-- ``Poisson Noise Channel with Dark Current: Numerical Computation of the Optimal Input Distribution" has been accepted to 2022 IEEE International Conference on Communications (ICC): Communication Theory Symposium.
+- /December 2021:/ 
+-- Recent arxiv submissions:
+  --- L. Barletta, A. Dytso [https://arxiv.org/abs/2111.11442 ``Scalar Gaussian Wiretap Channel with Peak Amplitude Constraint: Numerical Computation of the Optimal Input Distribution"]
+  ---   L. Barletta, A. Dytso  [https://arxiv.org/abs/2111.11371 ``Poisson Noise Channel with Dark Current: Numerical Computation of the Optimal Input Distribution"]
+-- Our paper on  [https://ieeexplore.ieee.org/document/9625998 ``Bayesian Risk with Bregman Loss: A Cramer-Rao Type Bound and Linear Estimation"] has been accepted to the IEEE Transactions on Information Theory. 
+- /November 2021:/ Our paper on  [https://ieeexplore.ieee.org/document/9535123 ``Properties of the Support of the Capacity-Achieving Distribution of the Amplitude-Constrained Poisson Noise Channel"] has been accepted to the IEEE Transactions on Information Theory. 
+- /October 2021:/ Luca Barletta and I are organizing a special issue on in Entropy on [https://www.mdpi.com/journal/entropy/special_issues/Wireless_Network ``Wireless Networks: Information Theoretic Perspectives"]. Please consider submitting. 
+- /May 2021:/ Recent arxiv submissions: 
+  -- A. Dytso, M. Cardone [https://arxiv.org/abs/2105.05106 ``A General Derivative Identity for the Conditional Expectation with Focus on the Exponential Family"]
+  --  M. Jeong, A. Dytso, M. Cardone  [https://arxiv.org/abs/2105.03015 ``Retrieving Data Permutations from Noisy Observations: High and Low Noise Asymptotics"]
+  -- A. Dytso, L. Barlett, S. Shamai (Shitz) [https://arxiv.org/abs/2104.14431 ``Bounds on the Number of Mass Points of the Capacity Achieving Distribution of the Amplitude Constraint Poisson Noise Channel"]
+- /April 2021:/  
+  -- Papers Accepted for Publication:
+   --- W. Cao, A. Dytso, M. Fauss, H. V. Poor [https://www.mdpi.com/1099-4300/23/5/545  ``Finite-Sample Bounds on the Accuracy of Plug-In Estimators of Fisher Information"] has been published in Entropy. 
+  -- Recent arxiv submissions:
+    ---   A. Dytso,  H. V. Poor, S. Shamai (Shitz) [https://arxiv.org/abs/2104.01883 ``A General Derivative Identity for the Conditional Mean Estimator in Gaussian Noise and Some Applications"]
+- /February 2021:/ Two of our papers will be presented at the [https://itw2020.it/home 2020 IEEE Information Theory Workshop] 
+--  A. Dytso,  M. Cardone ,  C. Rush, `` Measuring Dependencies of Order Statistics: An Information Theoretic Perspective''
+--   A. Dytso, H. V. Poor, S. Shamai (Shitz) ``On the Distribution of the Conditional Mean Estimator in Gaussian Noise"
+- /November 2020:/ Our paper on  [https://ieeexplore.ieee.org/document/9279328 ``Recovering Data Permutations from Noisy Observations: The Linear Regime"] has been accepted to the [https://www.itsoc.org/publications/journal-on-selected-areas-in-information-theory-jsait Journal on Selected Areas in Information Theory (JSAIT)]. This is JSAIT's third issue, which focuses on statistical estimation and inference. 
+- /September 2020:/ Recent arxiv submissions:
+--   A. Dytso,  M. Cardone, C. Rush [https://arxiv.org/abs/2009.12337 ``Measuring Dependencies of Order Statistics: An Information Theoretic Perspective"]
+- /June 2020:/ Recent arxiv submissions:
+--  M. Fauß, A. Dytso,  H. V. Poor, [https://arxiv.org/abs/2006.03722 ``MMSE Bounds Under Kullback-Leibler Divergence Constraints on the Joint Input-Output Distribution"]
+- /May 2020:/ Recent arxiv submissions:
+-- M. Jeong, A. Dytso, M. Cardone, H. V. Poor, [https://arxiv.org/abs/2005.07812 ``Recovering Data Permutations from Noisy Observations: The Linear Regime"]
+-- W. Cao, A. Dytso, M. Fauß,  H. V. Poor, [https://arxiv.org/abs/2005.03622 ``Nonparametric Estimation of the Fisher Information and Its Applications"]
+- /April 2020:/ 
+-- Two of our papers will be presented at the [https://spawc2020.netlify.app/ 21st IEEE International Workshop On Signal Processing  Advances in Wireless Communications]
+---  A. Dytso, M. Fauß,  H. V. Poor, ``A Class of Lower Bounds for Bayesian Risk with a Bregman Loss''
+---  S. Yagli, A. Dytso, H. V. Poor, ``Information-Theoretic Bounds on the Generalization Error and Privacy Leakage in Federated Learning"
+-- Three of our papers will be presennted at the [https://2020.ieee-isit.org/ International Symposium on Information Theory (ISIT)]
+--- W. Cao, A. Dytso, M. Fauß,  H. V. Poor, ``On Nonparametric Estimation of the Fisher Information"
+---  M. Jeong, A. Dytso, M. Cardone, H. V. Poor, ``Recovering Structure of Noisy Data through Hypothesis Testing"
+---  A. Dytso,  H. V. Poor, Shlomo Shamai, ``A General Derivative Identity for the Conditional Mean Estimator in Gaussian Noise and Some Applications"
+-- See our recent submission to [https://arxiv.org/abs/2003.08967 arXiv] on ``The Vector Poisson Channel: On the Linearity of the Conditional Mean Estimator."
+-  /March 2020:/   The following paper has been accepted for publication and is to appear in IEEE Transactions on Information Theory: [https://ieeexplore.ieee.org/document/9032131 A. Dytso, H. V. Poor, “Estimation in Poisson Noise: Properties of The Conditional Mean Estimator.”]
+- /February 2020:/ 
+-- See our recent submission to [https://arxiv.org/abs/2001.10982 arXiv] on a class of lower bounds for  Bayesian Risk with a Bregman Loss. 
+
+== 2019
+- /Novermber 2019:/ 
+-- I am co-organizing (with [https://sites.google.com/site/lasaulce/ Samson Lasaulce] and [https://cybernets.inria.fr/collaborators/perlaza/ Samir M. Perleza])  [http://wi-opt.org/index.php/rawnet/ the 2020 Workshop on Resource Allocation, Cooperation and Competition in Wireless Networks (RAWNET)] which will take place in the mythical Greek city of Volos on June 19th, 2020. Please consider submitting. 
+-- See our recent submission to [https://arxiv.org/abs/1911.03744 arXiv] on estimation in Poisson noise and properties of the conditional mean estimator.
+-- I gave a talk at MIT on  
+``Some Aspects of Totally Positive Kernels Useful in Information Theory." Hosted by Muriel Medard.  
+- /October 2019:/ Two of our journal papers have been accepted for publication:
+--  A. Dytso, S. Yagli, H. V. Poor, and S. Shamai (Shitz), [https://arxiv.org/abs/1901.03264 “The Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel: An Upper Bound on the Number of Mass Points,]” to appear in IEEE Transactions on Information Theory.
+-- A. Dytso, M. Fauß, A. M. Zoubir, H. V. Poor, “MMSE Bounds for Additive Noise Channels Under Kullback-Leibler Divergence Constraints on the Input Distribution,” to appear in IEEE Transactions on Signal Processing.
+- /September 2019:/  I gave a talk at Bell Labs at Crawford Hill on Optimization over Probability Spaces. Hosted by Ori Shental. Crawford Hill is home to Holmdel Horn antenna (i.e., 'Big Bang' antenna). [pics/big_bang.jpg Photo]
+- /August 2019:/  Two of our papers have been presented at ITW 2019: 
+-- A. Dytso and H. V. Poor, “Properties of The Conditional Mean Estimator in Poisson Noise”
+-- S. Yagli, A. Dytso, H. V. Poor, “Estimation of Bounded Normal Mean: An Alternative Proof for the Discreteness of the Least Favorable Prior”
+- /August 2019:/ See our recent submission to [https://arxiv.org/abs/1901.06294 arXiv] on recovering sorted noisy data. 
+- /July 2019:/ Two of our papers  have been presented at ISIT 2019:
+  -- A. Dytso, M. Cardone, M. S. Veedu, H. V. Poor, “On Estimation under Noisy Order Statistics” 
+  -- S. Yagli, A. Dytso, H. V. Poor, S. Shamai (Shitz), “An Upper Bound on the Number of Mass Points in the Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel”
+- /June 2019:/  [http://ee.princeton.edu/people/faculty/h-vincent-poor Professor H. Vincent Poor] and I are guest editing a special issue on [https://www.mdpi.com/journal/entropy/special_issues/WN_ITP ``Wireless Networks: Information Theoretic Perspectives"] in the Entropy journal.  Please consider submitting. 
+- /June 2019:/  I  co-organized the [https://cns2019.ieee-cns.org/workshop/workshop-physical-layer-methods-security-and-privacy-5g-and-iot/commitees 5th Workshop on Physical-Layer Methods for Wireless Security] at IEEE CNS ’19, Washington DC, June 2019 (with Mario Goldenbaum, Rafael F. Schaefer, H. Vincent Poor, and Holger Boche).
+- /January 2019:/ See our recent submission to [https://arxiv.org/abs/1901.03264 arXiv]  that makes progress on the long-standing open problem of how to characterize capacity achieving distributions for amplitude constraint Gaussian noise channel.
+
+== 2018
+- I gave a talk at Rutgers University on Generalized Gaussian distributions. Hosted by [http://www.winlab.rutgers.edu/~ryates/ Prof. Roy Yates].
+- We have two papers accepted to the [http://www.itw2018.org/ Information Theory Workshop 2018]
+  -- ``Capacity of the Vector Gaussian Channel in the Small Amplitude Regime" with Shlomo Shamai and H. Vincent Poor.  See [https://www.dropbox.com/s/u5o6k3o21gh6yph/ITW%202018.pdf?dl=0 slides]. 
+  -- ``Optimal Inputs for Some Classes of Degraded Wiretap Channels" with  [https://malcolmalexegan.wordpress.com/author/malcolmegan/ Malcolm Egan], [https://cybernets.inria.fr/collaborators/perlaza/ Samir M. Perlaza],  [http://ee.princeton.edu/people/faculty/h-vincent-poor H. Vincent Poor] and [https://shamai.net.technion.ac.il/shamai_hp.html Shlomo  Shamai]. See [https://malcolmalexegan.files.wordpress.com/2018/11/itw_2018.pdf slides].
+- Our paper titled ``On the Structure of the Least Favorable Prior Distributions" has been presented at  the 2018 IEEE International Symposium on Information Theory in Vail, Colorado. Here is the  link to my  [presentations\ISIT2018.pdf slides].  
+- I gave a talk at the NJIT hosted by [https://web.njit.edu/~jkliewer/wp/ Joerg Kliewer] on my recent work "On the structure of the least favorable distributions." 
+- I gave a talk at the [http://ita.ucsd.edu/workshop/18/?year=18 ITA Graduation Day] with the title
+ 	``On the Structure of the Least Favorable Prior Distributions."
+- I  co-organized a special session ``On Optimal Communications with Discrete Input Signals" at [http://ee-ciss.princeton.edu/ IEEE CISS'18] March 2018 (with Mario Goldenbaum, Shlomo Shamai, and H. Vincent Poor).
+
+
+== 2017
+- I  co-organized the [http://cns2017.ieee-cns.org/workshop/4th-workshop-physical-layer-methods-wireless-security-plmws 4th Workshop on Physical-Layer Methods for Wireless Security] at IEEE CNS ’17, Las Vegas, NV, October 2017 (with Mario Goldenbaum, Rafael F. Schaefer, H. Vincent Poor, and Holger Boche).
+- Please see our recent arxiv submission [https://arxiv.org/pdf/1703.07442.pdf "Comment on the Equality Condition for the I-MMSE Proof of the Entropy Power Inequality."]  
+
+== 2016
+- I  gave a talk at NJIT hosted by [https://web.njit.edu/~simeone/ Osvaldo Simeone].
+- I  gave a talk at Bell Labs. Many thanks to Henry Landau for the invitation. The slides for my talk can be found [presetation/SeminarBellLabsAlexDytso here].
+- I recently gave a seminar at Princeton University on the role of Minimum Mean $p$-th Error. The slides for my talk can be found [presentations/SeminarPrinceton2016.pdf here].
+- I gave a talk at [http://sigproc.eng.cam.ac.uk/ITW2016 IEEE Information Theory Workshop (ITW)]. The slides for my talk can be found [presentations/ITW2016Cambridge.pdf here]. 
+- I gave a seminar  at [http://web.iit.edu/ Illinois Institute of Technology (IIT)] hosted by [http://www.ece.iit.edu/~salim/ Salim El Rouayheb]. The seminar was titled [presentations/IITlecture2016.pdf "Overview and New Advances on the Interplay Between Estimation and Information Measures."]
+- I gave a talk at [http://www.isit2016.org/ 2016 IEEE International Symposium on Information Theory (ISIT)] that took place in a beatiful city of Barcelona. Here is the  link to my [presentations\ISIT2016.pdf slides].  
+- Please see the  [http://arxiv.org/pdf/1607.01461.pdf preprint] of our recent submission to the Transactions on Information Theory.
+- Our paper on the Minimum Mean $p$-th Error has been  accepted to the  [http://sigproc.eng.cam.ac.uk/ITW2016 IEEE Information Theory Workshop (ITW)].
+- Please see the  [http://arxiv.org/abs/1603.07628 preprint] of our  recent submission to Transactions on Information Theory.
+- Our [http://arxiv.org/abs/1506.02597 paper] on the approximate optimality of treating interference as noise has been accepted for publication in Transactions on Information Thoery.
+- I participated as a judge from the IEEE Chicago Section for the Future City Competition.  Pictures are now available at [https://goo.gl/Yf0T4X Flickr].
+
+
+== 2015
+- We are excited to announce that our application to create an Information Theory Chapter in Chicago has been approved by the IEEE.
+- I was invited to give a talk at   [http://www.asilomarsscconf.org/ Asilomar 2015] at a special session on “Interference and Networks.”
+- I gave a talk at [http://www.isit2015.org/ ISIT 2015]. Here is a link to my [presentations\ISIT2015DytsoV3.pdf slides].
+- I gave a poster presentation at ITA 2015 titled ``On the Applications of Mixed and Discrete Inputs for Gaussian Interference Networks". Here is a link to the [https://www.youtube.com/watch?v=gPrj0V_erd4 youtube video.].

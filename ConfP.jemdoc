@@ -1,0 +1,92 @@
+# jemdoc: menu{MENU}{index.html}
+= Conference Papers
+
+For an up to date list please see  my [https://scholar.google.com/citations?user=oVxK8g0AAAAJ&hl=en Google Scholar page] and [https://arxiv.org/search/?searchtype=author&query=Dytso%2C+A arXiv].
+
+
+
+== 2022
+- Luca Barletta, Alex Dytso, "Amplitude-Constrained Gaussian Wiretap Channel: Computation of the Optimal Input Distribution," to appear in IEEE MeditCom 2022. 
+- Ian Zieder, Alex Dytso, Martina Cardone, “An MMSE Lower Bound via Poincare Inequality,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022.
+- Leighton Barnes, Alex Dytso, H. Vincent Poor, “Improved Information Theoretic Generalization Bounds for Distributed and Federated Learning,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022. 
+- Antonino Favano, Luca Barletta, Alex Dytso, “On the Capacity Achieving Input of Amplitude Constrained Vector Gaussian Wiretap Channel,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022.
+- Martina Cardone, Alex Dytso, Cynthia Rush, “Entropic CLT for Order Statistics,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022. 
+- Minoh Jeong, Martina Cardone, Alex Dytso, “On the Permutation Recovery From Noisy Observations Up to a Distortion,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022.
+- L. Barletta, A. Dytso, ``Poisson Noise Channel with Dark Current: Numerical Computation of the Optimal Input Distribution,"  2022 IEEE International Conference on Communications (ICC): Communication Theory Symposium, Seoul, South Korea, May 2022. 
+- A. Dytso, M. Goldenbaum, H. V. Poor, S. Shamai (Shitz), ``A dimensionality reduction method for finding least-favorable priors with a focus on Bregman divergence" has been accepted to [http://aistats.org/aistats2022/accepted.html The 25th International Conference on Artificial Intelligence and Statistics (AISTATS)], March, 2022.
+
+
+== 2021 
+- L. Barletta, A. Dytso “Scalar Gaussian Wiretap Channel: Bounds on the Support Size of the Capacity Achieving Distribution,” IEEE Information Theory Workshop (ITW), Kanazawa, Japan, October 2021.
+- A. Dytso, L. Barletta, “Amplitude Constrained Poisson Noise Channel: Properties of the Capacity- Achieving Input Distribution,” IEEE Information Theory Workshop (ITW), Kanazawa, Japan, October 2021.
+-  A. Dytso, Martina Cardone, “A General Derivative Identity for the Conditional Expectation with Focus on the Exponential Family,” IEEE Information Theory Workshop (ITW), Kanazawa, Japan, October 2021, to appear.
+- M. Fauß, A. Dytso, and H. V. Poor ``An Inequality for Bayesian Bregman Risks With Applica- tions in Directional Estimation,"" 2021 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), September 2021, to appear.
+-  A. Dytso, M. Cardone, C. Rush, ``Information Theoretic Approach to L-Estimators," Asilomar Conference on Signal, Systems, and Control/, Pacific Grove, CA, USA, October 2021.
+- M. Jeong, A. Dytso, Martina Cardone, “Retrieving Data Permutations from Noisy Observations: High and Low Noise Asymptotics,” IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
+- A. Dytso, Martina Cardone, and Cynthia Rush, “Measuring Dependencies of Order Statistics: An Information Theoretic Perspective,” IEEE Information Theory Workshop (ITW), Riva del Garda, Italy, April 2021.
+-  A. Dytso, H. V. Poor, and S. Shamai (Shitz), “On the Distribution of the Conditional Mean Estimator in Gaussian Noise,” IEEE Information Theory Workshop (ITW), Riva del Garda, Italy, April 2021.
+
+== 2020
+
+- A. Dytso, H. V. Poor, and S. Shamai (Shitz), “A General Derivative Identity for the Conditional Mean Estimator in Gaussian Noise and Some Applications,” IEEE International Symposium on Information Theory (ISIT), Los Angeles, USA, June 2020. 
+- W. Cao, A. Dytso, M. Fauß, G. Feng, and H. V. Poor, “On Nonparametric Estimation of the Fisher Information,” IEEE International Symposium on Information Theory (ISIT), Los Angeles, USA, June 2020.
+- A. Dytso, M. Fauß, and H. V. Poor, “A Class of Lower Bounds for Bayesian Risk with a Bregman Loss,” IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Atlanta, USA, May 2020.
+- S. Yagli, A. Dytso, and H. V. Poor, “Information-Theoretic Bounds on the Generalization Error and Privacy Leakage in Federated Learning,” IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Atlanta, USA, May 2020.
+- A. Dytso and H. V. Poor, “An Empirical Bayes Approach to Partially Labeled and Shuffled Data Sets,” 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, May 2020, (invited).
+- A. Dytso, H. V. Poor, and Shlomo Shamai (Shitz) “A General Derivative Identity for the Condi- tional Mean Estimator in Gaussian Noise,” IEEE International Symposium on Information Theory (ISIT), Los Angeles, USA, June 2020.
+- M. Jeong, A. Dytso, M. Cardone, H. V. Poor, “Recovering Structure of Noisy Data through Hypothesis Testing,” IEEE International Symposium on Information Theory (ISIT), Los Angeles, USA, June 2020.
+
+== 2019 
+- M. Fauß, A. Dytso, H. V. Poor, “A Variational Proof of the Cram ́er–Rao Bound,” 54th Annual Conference on Information Sciences and Systems (CISS), Princeton, USA, March 2019, (invited).
+- A. Dytso and H. V. Poor, “On Stability of Linear Estimators in Poisson Noise,” /Asilomar Conference on Signal, Systems, and Control/, Pacific Grove, CA, USA, October 2019.
+- W. Cao, A. Dytso, M. Fauss, G. Feng, and H. V. Poor, “Robust Power Allocation for Parallel Gaussian Channels with Approximately Gaussian Input Distributions,” /IEEE Global Communications Conference (GLOBECOM)/, Hawaii, USA, December 2019, to appear.
+- A. Dytso and H. V. Poor, “Properties of The Conditional Mean Estimator in Poisson Noise,” /IEEE Information Theory Workshop (ITW)/, Visby, Gotland, Sweden, August 2019.
+- S. Yagli, A. Dytso, H. V. Poor, “Estimation of Bounded Normal Mean: An Alternative Proof for the Discreteness of the Least Favorable Prior,” /IEEE Information Theory Workshop (ITW)/, Visby, Gotland, Sweden, August 2019.
+- M. Fauss, A. M. Zoubir, A. Dytso, H. Vincent Poor, Nagananda K. G, “Tight Bounds on the Weighted Sum of MMSEs with Applications in Distributed Estimation,” /IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, Cannes, France, July 2019.
+- S. Yagli, A. Dytso, H. V. Poor, S. Shamai (Shitz), “An Upper Bound on the Number of Mass Points in the Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel,” /IEEE International Symposium on Information Theory (ISIT)/, Paris, France, June 2019.
+- A. Dytso, M. Cardone, M. S. Veedu, H. V. Poor, “On Estimation under Noisy Order Statistics,” /IEEE International Symposium on Information Theory (ISIT)/, Paris, France, June 2019.
+- W. Cao, A. Dytso, Y. Shkel, G. Feng, H. V. Poor, “Sum-Capacity of the MIMO Gaussian Many-Access Channel,” /IEEE International Conference on Communications (ICC)/, Shanghai, China, May 2019.
+- S. Yagli, A. Dytso, H. V. Poor, S. Shamai (Shitz), “Some Aspects of Totally Positive Kernels Useful in Information Theory,” /IEEE Wireless Communications and Networking Conference (WCNC)/, Marrakech, Morocco, April 2019, invited.
+
+== 2018
+
+- A. Dytso, R. Bustin, H. V. Poor, S. Shamai (Shitz), “On Lossy Compression of Generalized Gaussian Sources,” /IEEE International Conference on the Science of Electrical Engineering (ICSEE)/, Eilat, Israel, December 2018.
+- W. Cao, A. Dytso, G. Feng, H. V. Poor, Z. Chen, “Group Paging for Massive Machine-Type Communications with Diverse Access Requirements,” /IEEE Global Communications Conference (GLOBECOM)/, Abu Dhabi, UAE, December 2018.
+- A. Dytso, H. V. Poor, S. Shamai (Shitz), “Capacity of the Vector Gaussian Channel in the Small Amplitude Regime,” IEEE Information Theory Workshop (ITW), Guangzhou, China, November 2018.
+- A. Dytso, M. Egan, S. M. Perlaza, H. V. Poor, S. Shamai (Shitz), “Optimal Inputs for Some Classes of Degraded Wiretap Channels,” IEEE Information Theory Workshop (ITW), Guangzhou, China, November 2018.
+- Fauss, M.; Dytso, A.;   Zoubir A.M.;  Poor H. V., “Tight MMSE Bounds for the AGN Channel Under KL Divergence Constraints on the Input Distribution,” IEEE Statistical Signal Processing Workshop, Freiburg, Germany, 2018.
+- Dytso, A.;  Bustin, R.; Poor H. V.;  Shamai, S., “On the Structure of the Least Favorable Prior Distributions,” /IEEE International Symposium on Information Theory (ISIT)/, Vail, USA, June 2018.
+
+== 2017
+
+- Dytso, A.;   Goldenbaum, M.; Poor, H.V.;  Shamai, S., ““When Are Discrete Channel Inputs Optimal? - Optimization Methods and New Results,” /52th Annual Conference on Information Sciences and Systems (CISS)/, Princeton, USA, March 2017.
+-  Chanyaswad, T.;   Dytso, T.;  Mittal, P.;  and  Poor H. V., “MVG mechanism: Differential privacy under matrix-valued query,” /39th IEEE Symposium on Security and Privacy/, 2017.
+- Dytso, A.;  Bustin, R.; Poor H. V.;  Shamai, S., “On the Equality Condition for the I-MMSE Proof of the Entropy Power Inequality,” /55th Annual Allerton Conference on in Communication, Control, and Computing (Allerton)/, Monticello, USA, October 2017.
+- Dytso, A.;   Goldenbaum, M.; Poor, H.V.;  Shamai, S., “Upper and Lower Bounds on the Capacity of Amplitude-Constrained MIMO Channels,” IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
+- Dytso, A.;  Bustin, R.; Poor H. V.;  Shamai, S., “On Additive Channels with Generalized Gaussian Noise,” /IEEE International Symposium on Information Theory (ISIT)/, Aachen, Germany, June 2017.
+- Dytso, A,;   Goldenbaum, M.; Poor, H.V.;  Shamai, S., “A Generalized Ozarow-Wyner Capacity Bound with Applications,” /IEEE International Symposium on Information Theory (ISIT)/, Aachen, Germany, June 2017.
+
+== 2016 
+
+- Dytso, A.; Bustin, R.; Tuninetti, D.;  Devroye, N.; Poor, H.V.;  Shamai, S.,  ``On the minimum mean p-th error in Gaussian noise channels and its applications,'' /IEEE International Symposium on Information Theory (ISIT)/ ,  June 2016.
+
+== 2015
+
+- Dytso, A., Devroye, N., Tuninetti, D., ``Nearly optimal non-Gaussian codes for the Gaussian interference channel', /49th Asilomar Conference on Signals, Systems and Computers, / Oct. 2015.
+- Dytso, A., Devroye, N., Tuninetti, D., `` i.i.d. Mixed Inputs and Treating Interference as Noise are gDoF Optimal for the Symmetric Gaussian Two-user Interference Channel ," /IEEE International Symposium on Information Theory (ISIT)/ ,  June 2015.
+- Dytso, A., Tuninetti, D., Devroye, N. " On the Two-user Interference Channel with Partial Codebook Knowledge at one Receiver: Symmetric Capacity to with a Gap with PAM inputs," /IEEE Information Theory Workshop(ITW)/, Jerusalem, Apr. 2015.
+
+== 2014
+
+- Dytso, A., Devroye, N., Tuninetti, D., "On Gaussian interference channels with mixed Gaussian and discrete inputs," /IEEE International Symposium on Information Theory (ISIT)/ , vol., no., pp.261,265, June  2014.
+- Dytso, A.; Tuninetti, D.; Devroye, N., "On discrete alphabets for the two-user Gaussian interference channel with one receiver lacking knowledge of the interfering codebook,"  /Information Theory and Applications Workshop (ITA)/, 2014 , vol., no., pp.1-8, 9-14 Feb. 2014.
+
+== 2013
+
+- Dytso, A.; Devroye, N.; Tuninetti, D., "On the capacity of interference channels with partial codebook knowledge,"  /  IEEE International Symposium onInformation Theory Proceedings (ISIT)/,  , vol., no., pp.2039-2043, 7-12 July 2013.
+
+== 2012
+
+- Dytso, A.; Devroye, N.; Tuninetti, D., "The sum-capacity of the symmetric linear deterministic Complete K-user Z-Interference Channel," /50th Annual Allerton Conference on  in Communication, Control, and Computing (Allerton),/ vol., no., pp.1232-1237, 1-5 Oct. 2012.
+-  Dytso A.,  Devroye, N., and  Tuninetti, D., ``On The Capacity of the Symmetric Interference Channel with a Cognitive Relay at High SNR,’’ /International Conference on Communications (ICC)/, Ottawa, June 2012.
+

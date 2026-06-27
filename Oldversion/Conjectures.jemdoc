@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{index.html}
+= Conjectures
+
+On this page, I  occasionally list some conjectures that appeared in my papers.     If you are able to prived a solution, please let me know. 
+
+
+== Maximum Number of Oscillations of  a Gaussian Convolution 
+Consider a scalar random variable $Y=X+Z$  where $X$ and $Z$ are independent.  Assume that $Z$ is a standard normal, and $X$ is a bounded symmetric random variable such that $|X| \le A$ for some $A>0$. Denote by $f_Y$ the probability density function of $Y$. For obvious reasons, we refer to $f_Y$ as a Gaussian convolution.   Now denote  by $\mathrm{N}(S,f_Y-\kappa)$  the number of zeros of a function $f_Y-\kappa$ on the set $S \subseteq \mathbb{R}$.  The conjecture can now be stated as follows: 
+
+\(
+\max_{ X: |X| \le A } \max_{ \kappa: \kappa>0} \mathrm{N}( \mathbb{R},f_Y-\kappa)= O(A)  \quad (*).
+\)
+The first maximization in  $(*)$ is over all symmetric distributions on $X$ that have support on the interval $[-A,A]$. 
+
+~~~
+For more details on this conjecture, motivation and supporting arguments  see this [https://arxiv.org/abs/1901.03264 paper]. 
+~~~

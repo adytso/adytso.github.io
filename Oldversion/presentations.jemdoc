@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}
+= Seminars
+
+- [presentations/SeminarBellLabsAlexDytso2016 On the Minimum Mean $p$-th Error in Gaussian Noise Channels and its Applications], Bell Labs Nokia, Oct. 2016, Host: Dr. Hanry Landau.
+- [presentations/SeminarBellLabsAlexDytso2016 On the Minimum Mean $p$-th Error in Gaussian Noise Channels and its Applications], New Jersey Institute of Technology, Oct. 2016, Host: [https://web.njit.edu/~simeone/ Prof. Osvaldo Simeone].
+- [presentations/SeminarPrinceton2016.pdf On the Minimum Mean $p$-th Error in Gaussian Noise Channels and its Applications], Princeton University, Sep. 2016. 
+- [presentations/IITlecture2016.pdf Overview and New Advances on the Interplay Between Estimation and Information Measures], Illinois Institute of Technology (IIT), Aug. 2016, Host: [http://www.ece.iit.edu/~salim/ Prof. Salim El Rouayheb].
+- ￼[presentations\SlidesForUMD.pdf On the Optimality of Treating Interference as Noise in Competitive Scenarios], University of Maryland Collage Park, Jyly 2014, Host: [http://www.ece.umd.edu/~ulukus/ Prof. Sennur Ulukus].
+
+= Conference Presentations
+
+- [presentations/ITW2016Cambridge.pdf On the Applications of the
+Minimum Mean $p$-th Error to Information Theoretic Quantities], ITW 2016, Cambridge, UK.
+- [presentations\ISIT2016.pdf On the Minimum Mean p-th Error in Gaussian Noise Channels and Its Applications ], ISIT 2016, Barcelona, Spain.
+- [presentations\Asilomar2015.pdf Nearly Optimal Non-Gaussian Codes for the
+Gaussian Interference Channel ], Asilomar 2015, Monterey, USA. 
+- [presentations\ISIT2015DytsoV3.pdf Interference as Noise:  Friend or Foe?  ], ISIT 2015, Hong Kong, China.
+- [presentations\ITWv2.pdf The Gaussian interference channel with lack of codebook knowledge at one receiver: symmetric capacity to within a gap with a PAM input], ITW 2015, Jerusalem, Israel.
+- [presentations\SlidesISIT2014.pdf On Gaussian Interference Channels with Mixed Gaussian and Discrete Inputs], ISIT 2014, Honolulu, USA.
+- [presentations\SlidesforCSL2014.pdf On Gaussian Interference Channels with Mixed Gaussian and Discrete inputs], [http://publish.illinois.edu/cslstudentconference2014/ CSL Student Conference], UUIC, March 2014.
+- [presentations\PresentationISIT2013.pdf On Capacity of Interference Channels with Partial Codebook Knowledge], ISIT 2013, Istanbul, Turkey.
+
+
+= Poster Presentations 
+- [Posters\PosterITA.pdf  Mixed inputs in two-user Gaussian Interference Channels Performance Analysis and Approximate Optimality ], San Diego, USA. The video of this presentation can be found [https://www.youtube.com/watch?v=gPrj0V_erd4 here].
+- [Posters\PosterNASA2014.pdf Error Correction Coding for TDRSS Demand Access System,] NASA, Goddard Space Flight Center, Maryland, USA.
+- [Posters\PosterAllerton2012.pdf The sum-capacity of the symmetric linear deterministic Complete K-user Z-interference channel],  Information Theory School at Cornell University, 2012.

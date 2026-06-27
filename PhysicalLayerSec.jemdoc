@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{index.html}
+= Physical Layer Security 
+
+== Brief Overview 
+
+How can information be transmitted reliably to the legitimate user while keeping this information private from the eavesdropper? This is the question that information theoretic physical layer securing is trying to ask.   Most of my work in this domain has focused on finding the distributions that optimal secrecy-capacity for a  degraded wiretap channel. 
+
+
+== Preprints 
+- Antonino Favano, Luca Barletta, Alex Dytso, “Amplitude Constrained Vector Gaussian Wiretap Channel: Properties of the Secrecy-Capacity-Achieving Input Distribution,” (submitted to IEEE Transactions on Information Theory) arXiv:2208.03384.
+
+
+
+ == Conference 
+ - L. Barletta, A. Dytso, ”Amplitude-Constrained Gaussian Wiretap Channel: Computation of the Optimal Input Distribution” IEEE International Mediterranean Conference on Communications and Networking (MeditCom), Athens, Greece, September 2022.
+ - A. Favano, L. Barletta, A. Dytso, “On the Capacity Achieving Input of Amplitude Constrained Vector Gaussian Wiretap Channel,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022.
+ - L. Barletta, A. Dytso “Scalar Gaussian Wiretap Channel: Bounds on the Support Size of the Capacity Achieving Distribution,” IEEE Information Theory Workshop (ITW), Kanazawa, Japan, October 2021.

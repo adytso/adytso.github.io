@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}
+= Lower Bounds on the Recovery of Random Signals (e.g., Bayesian Lower Bounds) 
+
+== Brief Overview 
+
+Finding lower bounds on the minimum mean sqaured error (MMSE), which is often difficult to compute in closed form, is an important aspect in signal estimation as such lower bounds provide fundamental limits on signal recovery.  
+Broadly  speaking there are three type of families  or approaches for finding lower bounds:  1) /Weinstein-Weiss type bounds/  (of which the Cram\'er-Rao lower bound is  a special case).  This family of bounds is derived  through the /Cauchy-Schwarz inequality/.  2) /Ziv- Zaki type bounds/ . This family of bounds connects estimation theoretic quantities to the /binary hypothesis testing/.   3)  /Bounds via maximum entropy principle/.  The classical bound of this type is the so-called continuous Fano's inequality,  that relates /conditional entropy/ and  the MMSE.     Recently, in Preprint~1  we have proposed a new approach for finding lower bounds on the MMSE. The approach consists of two parts:  i) For the distribution of the signal of interest find the best Gaussian approximation in terms of some probabilistic distance or divergence  (e.g., Kullback--Leibler divergence). Let the best Gaussian distribution be denoted by $Q_0$ the value of approximation be denote by $\epsilon$;  and ii) minimize the MMSE over all possible distributions lying in the  $\epsilon$-ball centered at $Q_0$ where the  $\epsilon$-ball is defined with respect to the chosen distance or divergence. For example, the choice of Kullback--Leibler divergence results in bounds that can be tighter  than the Cram\'er-Rao lower bound  and defined for a larger class of signal distributions. Finally, the lower bounds easily extend to linear combinations of MMSE's  and  are useful  in the study of the efficiency of decentralized  estimation.]
+
+
+== Journal Papers  
+. A. Dytso, M. Cardone, I. Zieder, [https://ieeexplore.ieee.org/abstract/document/9874834/ ``High-Noise Asymptotics of the Ziv-Zakai Bound,"] to appear in  /IEEE Signal Processing Letters/.
+. M. Fauß,  A. Dytso, H. V.  Poor, [https://www.sciencedirect.com/science/article/abs/pii/S0165168420304618?dgcid=rss_sd_all ``A Variational Interpretation of the Cramer-Rao Bound,"]   /Signal Processing, Elsevier/,  Vol. 182, 2021.
+.  M. Fauß, A. Dytso, H. V. Poor,  ``MMSE Bounds Under Kullback-Leibler Divergence Constraints on the Joint Input-Output Distribution"  arXiv:2006.03722. 
+. A. Dytso, M. Fauß, H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/9625998 "Bayesian Risk with Bregman Loss: A Cramer-Rao Type Bound and Linear Estimation,"] /IEEE Transactions on Information Theory/, Vol.~68, No.~3, March 2022.
+. A. Dytso, M. Fauß, A. M. Zoubir, H. V. Poor, “Tight MMSE Bounds for the AGN Channel Under KL Divergence Constraints on the Input Distribution,” /IEEE Transactions on Signal Processing/, Vol. 67, No. 24, 2019..
+ 
+
+== Conference Papers 
+. I. Zieder, A. Dytso, M. Cardone, “An MMSE Lower Bound via Poincare Inequality,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022, to appear. 
+. M. Fauß, A. Dytso, and H. V. Poor ``An Inequality for Bayesian Bregman Risks With Applica tions in Directional Estimation,"" 2021 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), September 2021.
+. A. Dytso, M. Fauß, and H. V. Poor, “A Class of Lower Bounds for Bayesian Risk with a Bregman Loss,” IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Atlanta, USA, May 2020.
+. M. Fauß, A. Dytso, H. V. Poor, “A Variational Proof of the Cramer–Rao Bound,” 54th Annual Conference on Information Sciences and Systems (CISS), Princeton, USA, March 2019, (invited).
+. Fauss, M.; Dytso, A.;   Zoubir A.M.;  Poor H. V., “Tight MMSE Bounds for the AGN Channel Under KL Divergence Constraints on the Input Distribution,” IEEE Statistical Signal Processing Workshop, Freiburg, Germany, 2018.
+.  Fauss, M; Zoubir A.M.;  Dytso, A.; Poor H. V.; Nagananda K. G, “Tight Bounds on the Weighted Sum of MMSEs with Applications in Distributed Estimation,” IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Cannes, France, July 2019.

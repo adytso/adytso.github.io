@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}
+= Estimation and Communication in Poisson Noise
+
+~~~ 
+{}{img_left}{pics\PoissonChannel.jpg}{alt text}{280.87}{100.75}{IMGLINKTARGET}
+
+The Poisson noise channel with the input random variable $X$, the scaling factor $a$, the dark current parameter $\lambda$, and the output random variable $Y$. 
+~~~ 
+
+== Brief Overview 
+Poisson noise models are  an important set of models with a wide range of applications. 
+ Concretely, for an input random variable $X \ge 0 $ the scalar Poisson noise channel is dictated by the following conditional probability mass function (pmf) of the output random variable $Y$:
+\(
+P_{Y|X}(y|x) = \frac{1}{y!} (ax+\lambda)^y e^{- (ax+\lambda)}, x\ge 0, \, y=0,1, \ldots   \quad (*)
+\)
+where  $a>0$ is a /scaling factor/ and $\lambda \ge 0$ is a non-negative constant called the /dark current parameter/. In words, conditioned on a non-negative input $X=x$, the output of the Poisson channel is  a non-negative integer-valued random variable $Y$ that is distributed according to  $(*)$.   In $(*)$  we use the convention that  $0^0=1$.  
+
+The random transformation of the input random variable $X$ to an output random variable $Y$  by  the channel in $(*)$ will be denoted by
+\(
+Y=  \mathcal{P}(aX+\lambda).   \quad (**)
+\)
+The transformation in $(**)$ is depicted on top of this page.  It is important to note that the  operator $\mathcal{P}(\cdot)$ is not linear, and it is not true that $ \mathcal{P}(aX+\lambda)= a\mathcal{P}(X)+\lambda$.  Using the language of laser communications, the $aX$ represents the intensity of a laser beam at the transmitter and $Y$ represents the number of photons that arrive at the receiver equipped with a particle counter (i.e., a  photodetector). The dark current parameter $\lambda$ represents the intensity of an additional source of noise or interference, which produces  an extra $\mathcal{P}(\lambda)$ photons   at a particle counter. 
+
+
+== Journal Papers  
+ - A. Dytso, L. Barletta,  S. Shamai (Shitz),  [https://ieeexplore.ieee.org/document/9535123 ``Properties of the Support of the Capacity-Achieving Distribution of the Amplitude-Constrained Poisson Noise Channel,"]  /IEEE Transactions on Information Theory/,   Vol. 67, No. 11, November 2021.
+ - A. Dytso, M. Fauß,  H. V.  Poor, [https://ieeexplore.ieee.org/abstract/document/9201075?casa_token=hJss3Vv6jdgAAAAA:CZXZDb37bsCFwPONfDI1EzaYXhXkzjG5UQ9RmrD8hw-PJX-IPjcpSyvf5nRCIc0oEz9x9kew2JA ``The Vector Poisson Channel: On the Linearity of the Conditional Mean Estimator,"]  /IEEE Transactions on Signal Processing/,   Vol. 68, September 2020.
+ - A. Dytso,  H. V. Poor,  [https://ieeexplore.ieee.org/abstract/document/9032131?casa_token=jZdRkDduvFUAAAAA:ZTRO6QOhKNMg1hGECbDHn7WLPP3W8r2wHOliYCvUYsPFmg-U28P5SH3EPCenK3JVjjQ9GnfYF9Q ``Estimation in Poisson Noise: Properties of the Conditional Mean Estimator,"]  /IEEE Transactions on Information Theory/,   Vol. 66, No. 7, July 2020.
+
+
+ 
+
+== Conference Papers 
+- L. Barletta, A. Dytso``Poisson Noise Channel with Dark Current: Numerical Computation of the Optimal Input Distribution,"  2022 IEEE International Conference on Communications (ICC): Communication Theory Symposium, Seoul, South Korea, May 2022. 
+- A. Dytso, L. Barletta,  S. Shamai (Shitz), ``Amplitude Constrained Poisson Noise Channel: Properties of the Capacity- Achieving Input Distribution,” IEEE Information Theory Workshop (ITW), Kanazawa, Japan, October 2021.
+- A. Dytso and  H. V. Poor, “Properties of The Conditional Mean Estimator in Poisson Noise,” /in Proc. IEEE Inf. Theory Workshop/, Visby, Sweden, August 2019. 
+- A. Dytso and H. V. Poor, “On Stability of Linear Estimators in Poisson Noise,” /Asilomar Conference on Signal, Systems, and Control/, Pacific Grove, CA, USA, October 2019.

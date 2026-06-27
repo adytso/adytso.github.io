@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Estimation and Communication in Poisson Noise</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Alex Dytso</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications_updated.html">Publications</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="Courses.html">Courses</a></div>
+<div class="menu-category">Links</div>
+<div class="menu-item"><a href="https://arxiv.org/search/?query=dytso&searchtype=all">arXiv</a></div>
+<div class="menu-item"><a href="https://scholar.google.com/citations?user=oVxK8g0AAAAJ&hl=en&oi=ao">My&nbsp;Google&nbsp;Scholar</a></div>
+<div class="menu-item"><a href="https://www.linkedin.com/in/alex-dytso-60026535?original_referer=https%3A%2F%2Fwww.google.com%2F">LinkedIn</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Estimation and Communication in Poisson Noise</h1>
+</div>
+<table class="imgtable"><tr><td>
+<a href="IMGLINKTARGET"><img src="pics\PoissonChannel.jpg" alt="alt text" width="280.87" height="100.75" /></a>&nbsp;</td>
+<td align="left"><p>The Poisson noise channel with the input random variable \(X\), the scaling factor \(a\), the dark current parameter \(\lambda\), and the output random variable \(Y\). 
+</p>
+</td></tr></table>
+<h2>Brief Overview </h2>
+<p>Poisson noise models are  an important set of models with a wide range of applications. 
+Concretely, for an input random variable \(X \ge 0 \) the scalar Poisson noise channel is dictated by the following conditional probability mass function (pmf) of the output random variable \(Y\):
+</p>
+<p style="text-align:center">
+\[
+P_{Y|X}(y|x) = \frac{1}{y!} (ax+\lambda)^y e^{- (ax+\lambda)}, x\ge 0, \, y=0,1, \ldots   \quad (*)
+\]
+</p><p>where  \(a&gt;0\) is a <i>scaling factor</i> and \(\lambda \ge 0\) is a non-negative constant called the <i>dark current parameter</i>. In words, conditioned on a non-negative input \(X=x\), the output of the Poisson channel is  a non-negative integer-valued random variable \(Y\) that is distributed according to  \((*)\).   In \((*)\)  we use the convention that  \(0^0=1\).  
+</p>
+<p>The random transformation of the input random variable \(X\) to an output random variable \(Y\)  by  the channel in \((*)\) will be denoted by
+</p>
+<p style="text-align:center">
+\[
+Y=  \mathcal{P}(aX+\lambda).   \quad (**)
+\]
+</p><p>The transformation in \((**)\) is depicted on top of this page.  It is important to note that the  operator \(\mathcal{P}(\cdot)\) is not linear, and it is not true that \( \mathcal{P}(aX+\lambda)= a\mathcal{P}(X)+\lambda\).  Using the language of laser communications, the \(aX\) represents the intensity of a laser beam at the transmitter and \(Y\) represents the number of photons that arrive at the receiver equipped with a particle counter (i.e., a  photodetector). The dark current parameter \(\lambda\) represents the intensity of an additional source of noise or interference, which produces  an extra \(\mathcal{P}(\lambda)\) photons   at a particle counter. 
+</p>
+<h2>Journal Papers  </h2>
+<ul>
+<li><p>A. Dytso, L. Barletta,  S. Shamai (Shitz),  <a href="https://ieeexplore.ieee.org/document/9535123" target=&ldquo;blank&rdquo;>&lsquo;&lsquo;Properties of the Support of the Capacity-Achieving Distribution of the Amplitude-Constrained Poisson Noise Channel,"</a>  <i>IEEE Transactions on Information Theory</i>,   Vol. 67, No. 11, November 2021.
+</p>
+</li>
+<li><p>A. Dytso, M. Fauß,  H. V.  Poor, <a href="https://ieeexplore.ieee.org/abstract/document/9201075?casa_token=hJss3Vv6jdgAAAAA:CZXZDb37bsCFwPONfDI1EzaYXhXkzjG5UQ9RmrD8hw-PJX-IPjcpSyvf5nRCIc0oEz9x9kew2JA" target=&ldquo;blank&rdquo;>&lsquo;&lsquo;The Vector Poisson Channel: On the Linearity of the Conditional Mean Estimator,"</a>  <i>IEEE Transactions on Signal Processing</i>,   Vol. 68, September 2020.
+</p>
+</li>
+<li><p>A. Dytso,  H. V. Poor,  <a href="https://ieeexplore.ieee.org/abstract/document/9032131?casa_token=jZdRkDduvFUAAAAA:ZTRO6QOhKNMg1hGECbDHn7WLPP3W8r2wHOliYCvUYsPFmg-U28P5SH3EPCenK3JVjjQ9GnfYF9Q" target=&ldquo;blank&rdquo;>&lsquo;&lsquo;Estimation in Poisson Noise: Properties of the Conditional Mean Estimator,"</a>  <i>IEEE Transactions on Information Theory</i>,   Vol. 66, No. 7, July 2020.
+</p>
+</li>
+</ul>
+<h2>Conference Papers </h2>
+<ul>
+<li><p>L. Barletta, A. Dytso&lsquo;&lsquo;Poisson Noise Channel with Dark Current: Numerical Computation of the Optimal Input Distribution,"  2022 IEEE International Conference on Communications (ICC): Communication Theory Symposium, Seoul, South Korea, May 2022. 
+</p>
+</li>
+<li><p>A. Dytso, L. Barletta,  S. Shamai (Shitz), &lsquo;&lsquo;Amplitude Constrained Poisson Noise Channel: Properties of the Capacity- Achieving Input Distribution,” IEEE Information Theory Workshop (ITW), Kanazawa, Japan, October 2021.
+</p>
+</li>
+<li><p>A. Dytso and  H. V. Poor, “Properties of The Conditional Mean Estimator in Poisson Noise,” <i>in Proc. IEEE Inf. Theory Workshop</i>, Visby, Sweden, August 2019. 
+</p>
+</li>
+<li><p>A. Dytso and H. V. Poor, “On Stability of Linear Estimators in Poisson Noise,” <i>Asilomar Conference on Signal, Systems, and Control</i>, Pacific Grove, CA, USA, October 2019.</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2026-06-26 23:09:36 CDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

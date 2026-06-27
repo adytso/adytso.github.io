@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{index.html}
+= Research Interests by Topic
+
+- [Permutation.html Permutation Recovery]
+- [poisson.html Estimation and Communication in Poisson Noise]
+- [MMSElower.html Lower Bounds on the Recovery of Random Signals (i.e., Bayesian Lower Bounds)]
+- [InfoEst.html Information and Estimation Relations]
+- [ProbConvexOptimization.html Convex Optimization Over Probability Spaces]
+- [diffPriv.html Differential Privacy]
+- [InterfWireless.html Interference Mitigation in Wireless Networks]
+- [CapAmpliude.html Capacity of Channels with Amplitude Constraints]
+- [PhysicalLayerSec.html Physical Layer Security]
+- [CognitiveNetw.html Cognitive Networks]
+- [EPIresearch.html Entropic CLT, Entropy Power Inequalities]

@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{index.html}
+= Permutation Recovery from Noisy Observations 
+
+
+== Brief Overview 
+Consider a random vector $X^n=X_1,...,X_n$  distributed i.i.d. according to some distribution $P_X$, and consider the noisy observation $Y^n=X^n+Z^n$ where $Z^n$ is  i.i.d. Gaussian noise.  Classical estimation theoretic works seek to recover $X^n$ from the noisy observation $Y^n$.  Suppose, instead, we are only interested in recovering the permutation of $X^n$ (denoted by $\pi$ ) instead of the value of $X^n$. For example,  if $X^4=[ 3, 1, 7, 5]$, the permutation is $\pi=[ 2, 1, 4,3]$ (i.e., ranking of values of $X^4$). This line of research seeks to understand the fundamental limits of recovering $\pi$ (i.e., permutation of $X^n$) from the noisy observation $Y^n$. 
+
+== Journal Papers 
+- M. Jeong, A. Dytso, M. Cardone, [https://openreview.net/pdf?id=2EOVIvRXlv "Ranking Recovery under Privacy Considerations"] published in Transactions on Machine Learning Research.
+- M. Jeong, A. Dytso, M. Cardone, H. V. Poor,  [https://ieeexplore.ieee.org/document/9279328 ``Recovering Data Permutation from Noisy Observations: The Linear Regime"]  \IEEE Journal on Selected Areas in Information Theory, Vol.~1, No.~3, Nov. 2020.
+
+
+== Conference Papers 
+
+- M. Jeong, M. Cardone, A. Dytso, “On the Permutation Recovery From Noisy Observations Up to a Distortion,” IEEE International Symposium on Information Theory (ISIT), Aalto, Finland, June 2022, to appear. 
+- M. Jeong, A. Dytso, M. Cardone, “Retrieving Data Permutations from Noisy Observa- tions: High and Low Noise Asymptotics,” IEEE International Symposium on Information Theory (ISIT), Melbourne, Australia, July 2021.
+
+- M. Jeong, A. Dytso, M. Cardone, H. V. Poor, “Recovering Structure of Noisy Data through Hypothesis Testing,” IEEE International Symposium on Information Theory (ISIT), Los Angeles, USA, June 2020.

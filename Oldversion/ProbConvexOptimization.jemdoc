@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{index.html}
+= Convex Optimization Over Probability Spaces
+
+== Brief Overview 
+
+A large body of problems in information theory, estimation theory, finance and machine learning can be formulated as 
+\(
+\max_{P_X \in \mathcal{F}} \mathsf{G}\left( P_X \right)  \,    (*)
+\) 
+
+where $\mathsf{G}(\cdot)$ is some convex operator and  $\mathcal{F}$ is as set of feasible input distributions.
+
+
+
+Examples of such an optimization problem include finding capacity in information theory, finding least favorable distributions in statistics and  finding best and worst case arrival times in queuing theory to name a few.     Surprisingly, for a large class of such problems optimizing distributions turn out to be discrete. 
+
+
+For example, in information theory, in his seminal paper  (Smith' 71), Smith has shown that an optimizing distribution for a Gaussian noise channel with an amplitude constraint an the input $X$, is discrete with finitely many mass points.  A similar results in context of least favorable distributions has been shown by Ghosh in (Ghosh '64). Regrettably, the proof methods rely on the argument towards a  contradiction, which is not constructive and does not lead to a characterization of the number of mass points in the capacity-achieving input distribution. In fact,  very little is known about the structure of the least favorable or capacity achieving distribution even in a simple setting of an amplitude constraint on the input $X$.  
+
+ Our recent progress  allows us to characterize many new properties of maximizers in $(*)$.    *(I)* Our new methods can identify whether a maximizer is a discrete distribution or not. These methods are inherently different from the classical and popular approach of (Smith' 71) for showing discreteness of optimizing distributions and are  simpler. Instead, the tools for our methods are based on oscillation theorems for positive definite functions.  *(II)* Once a maximizer  is  shown to be discrete our new methods can provide tight bounds on the number of mass points.   To the best of our knowledge, this is the only approach available in the theory of optimizing non-linear functionals over probability spaces that can provide bounds on the number of mass points of extremizing distributions. We  have fruitfully applied these methods to study CAID in point-to-point Gaussian and Poisson channels, optimal reconstruction distributions in rate-distortion theory, and LFPDs for the MMSE.   
+  
+  
+
+== Tutorials 
+- A. Dytso, M. Goldenbaum, H. V. Poor, S. Shamai (Shitz), “When Are Discrete Alphabets Optimal? - Optimization Methods and New Results,” (in preparation).
+
+== Journals
+- A. Dytso, S. Yagli, H. V. Poor, S. Shamai (Shitz), `` 
+The Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel: An Upper Bound on the Number of Mass Points,"  /IEEE Transactions on Information Theory/, Vol. 66, No. 4, April 2020.
+- A. Dytso, M. Fauß, A. M. Zoubir, H. V. Poor, “Tight MMSE Bounds for the AGN Channel Under KL Divergence Constraints on the Input Distribution,” /IEEE Transactions on Signal Processing/, Vol. 67, No. 24, December 2019.
+
+
+
+
+ == Conference 
+. A. Dytso, S. Yagli, H. V. Poor, S. Shamai (Shitz), “Positive Definite Kernels with Applications to Network Information Theory,” IEEE Wireless Communications and Networking Conference (WCNC), Marrakech, Morocco, April 2019, invited.
+. A. Dytso, R. Bustin, H. V. Poor, S. Shamai (Shitz), “On Lossy Compression of Generalized Gaussian Sources,” IEEE International Conference on the Science of Electrical Engineering (ICSEE), Eilat, Israel, December 2018.
+. A. Dytso, H. V. Poor, S. Shamai (Shitz), “Optimal Inputs for Some Classes of Degraded Wiretap Channels,” IEEE Information Theory Workshop (ITW), Guangzhou, China, November 2018. 
+.  M. Fauss, A. Dytso, A. M. Zoubir, H. V. Poor, “Tight MMSE Bounds for the AGN Channel Under KL Divergence Constraints on the Input Distribution,” IEEE Statistical Signal Processing Workshop (SSP), Freiburg, Germany, June 2018.
+. A. Dytso, R. Bustin, H. V. Poor, S. Shamai (Shitz), “On the Structure of the Least Favorable Prior Distributions,” IEEE International Symposium on Information Theory (ISIT), Vail, USA, June 2018.
+. A. Dytso, M. Goldenbaum, H. V. Poor, and S. Shamai(Shitz), “When Are Discrete Channel Inputs Optimal? - Optimization Methods and New Results,” 52th Annual Conference on Information Sciences and Systems (CISS), Princeton, USA, March 2017..

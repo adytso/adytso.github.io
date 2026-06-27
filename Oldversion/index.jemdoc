@@ -1,0 +1,93 @@
+# jemdoc: menu{MENU}{example.html}
+= Alex Dytso 
+
+~~~ 
+{}{img_left}{pics\adphoto.jpg}{alt text}{242.87}{243.75}{IMGLINKTARGET}
+
+*Alex Dytso* \n
+\n
+*Assistant Professor*
+
+[https://ece.njit.edu// Department of Electrical and Computer Engineering]\n
+[https://www.njit.edu/ New Jersey Institute of Technology ] \n
+
+
+
+  *Contact*
+  
+University Heights \n
+Newark, NJ 07102 \n
+Email: alex.dytso@njit.edu
+~~~
+
+
+
+== Short Bio
+
+I am an Assistant Professor with the
+Electrical and Computer Engineering Department, New Jersey Institute of Technology (NJIT).
+ From  September 2016 to  August 2020, I was a Postdoctoral Researcher in the Department of Electrical Engineering at Princeton University, working under the supervision of [http://ee.princeton.edu/people/faculty/h-vincent-poor Professor H. Vincent Poor]. \n
+
+In 2018 I was  a Lecturer in the Department of Operations Research & Financial Engineering at Princeton University. 
+
+I received my Ph.D. from the  Department of Electrical and Computer Engineering  at  the University of Illinois at Chicago (UIC). I was lucky to have [https://nicest.lab.uic.edu/pr3ofiles/tuninetti-daniela/ Professor Daniela Tuninetti] and [http://www.ece.uic.edu/bin/view/Devroye/WebHome Professor Natasha Devroye] as my advisors. 
+
+== Research Interests
+- Estimation Theory
+- Information Theory
+- Wireless Communications
+- Optimization Theory
+
+== Openings 
+I am currently looking for Ph.D. students to join my group. If you are interested, please send me an email. 
+
+
+== News
+-/April 2021:/  Recent arxiv submissions:
+--   A. Dytso,  H. V. Poor, S. Shamai (Shitz) [https://arxiv.org/abs/2104.01883 ``A General Derivative Identity for the Conditional Mean Estimator in Gaussian Noise and Some Applications"]
+-/February 2021:/ Two of our papers will be presented at the [https://itw2020.it/home 2020 IEEE Information Theory Workshop] 
+---  A. Dytso,  M. Cardone ,  C. Rush, `` Measuring Dependencies of Order Statistics: An Information Theoretic Perspective''
+---   A. Dytso, H. V. Poor, S. Shamai (Shitz) ``On the Distribution of the Conditional Mean Estimator in Gaussian Noise"
+- /November 2020:/ Our paper on  [https://ieeexplore.ieee.org/document/9279328 ``Recovering Data Permutations from Noisy Observations: The Linear Regime"] has been accepted to the [https://www.itsoc.org/publications/journal-on-selected-areas-in-information-theory-jsait Journal on Selected Areas in Information Theory (JSAIT)]. This is JSAIT's third issue, which focuses on statistical estimation and inference. 
+- /September 2020:/ Recent arxiv submissions:
+--   A. Dytso,  M. Cardone, C. Rush [https://arxiv.org/abs/2009.12337 ``Measuring Dependencies of Order Statistics: An Information Theoretic Perspective"]
+- /June 2020:/ Recent arxiv submissions:
+--  M. Fauß, A. Dytso,  H. V. Poor, [https://arxiv.org/abs/2006.03722 ``MMSE Bounds Under Kullback-Leibler Divergence Constraints on the Joint Input-Output Distribution"]
+- /May 2020:/ Recent arxiv submissions:
+-- M. Jeong, A. Dytso, M. Cardone, H. V. Poor, [https://arxiv.org/abs/2005.07812 ``Recovering Data Permutations from Noisy Observations: The Linear Regime"]
+-- W. Cao, A. Dytso, M. Fauß,  H. V. Poor, [https://arxiv.org/abs/2005.03622 ``Nonparametric Estimation of the Fisher Information and Its Applications"]
+- /April 2020:/ 
+-- Two of our papers will be presented at the [https://spawc2020.netlify.app/ 21st IEEE International Workshop On Signal Processing  Advances in Wireless Communications]
+---  A. Dytso, M. Fauß,  H. V. Poor, ``A Class of Lower Bounds for Bayesian Risk with a Bregman Loss''
+---  S. Yagli, A. Dytso, H. V. Poor, ``Information-Theoretic Bounds on the Generalization Error and Privacy Leakage in Federated Learning"
+-- Three of our papers will be presennted at the [https://2020.ieee-isit.org/ International Symposium on Information Theory (ISIT)]
+--- W. Cao, A. Dytso, M. Fauß,  H. V. Poor, ``On Nonparametric Estimation of the Fisher Information"
+---  M. Jeong, A. Dytso, M. Cardone, H. V. Poor, ``Recovering Structure of Noisy Data through Hypothesis Testing"
+---  A. Dytso,  H. V. Poor, Shlomo Shamai, ``A General Derivative Identity for the Conditional Mean Estimator in Gaussian Noise and Some Applications"
+-- See our recent submission to [https://arxiv.org/abs/2003.08967 arXiv] on ``The Vector Poisson Channel: On the Linearity of the Conditional Mean Estimator."
+-  /March 2020:/   The following paper has been accepted for publication and is to appear in IEEE Transactions on Information Theory: [https://ieeexplore.ieee.org/document/9032131 A. Dytso, H. V. Poor, “Estimation in Poisson Noise: Properties of The Conditional Mean Estimator.”]
+- /February 2020:/ 
+-- See our recent submission to [https://arxiv.org/abs/2001.10982 arXiv] on a class of lower bounds for  Bayesian Risk with a Bregman Loss. 
+- /Novermber 2019:/ 
+-- I am co-organizing (with [https://sites.google.com/site/lasaulce/ Samson Lasaulce] and [https://cybernets.inria.fr/collaborators/perlaza/ Samir M. Perleza])  [http://wi-opt.org/index.php/rawnet/ the 2020 Workshop on Resource Allocation, Cooperation and Competition in Wireless Networks (RAWNET)] which will take place in the mythical Greek city of Volos on June 19th, 2020. Please consider submitting. 
+-- See our recent submission to [https://arxiv.org/abs/1911.03744 arXiv] on estimation in Poisson noise and properties of the conditional mean estimator.
+-- I gave a talk at MIT on  
+``Some Aspects of Totally Positive Kernels Useful in Information Theory." Hosted by Muriel Medard.  
+- /October 2019:/ Two of our journal papers have been accepted for publication:
+--  A. Dytso, S. Yagli, H. V. Poor, and S. Shamai (Shitz), [https://arxiv.org/abs/1901.03264 “The Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel: An Upper Bound on the Number of Mass Points,]” to appear in IEEE Transactions on Information Theory.
+-- A. Dytso, M. Fauß, A. M. Zoubir, H. V. Poor, “MMSE Bounds for Additive Noise Channels Under Kullback-Leibler Divergence Constraints on the Input Distribution,” to appear in IEEE Transactions on Signal Processing.
+- /September 2019:/  I gave a talk at Bell Labs at Crawford Hill on Optimization over Probability Spaces. Hosted by Ori Shental. Crawford Hill is home to Holmdel Horn antenna (i.e., 'Big Bang' antenna). [pics/big_bang.jpg Photo]
+- /August 2019:/  Two of our papers have been presented at ITW 2019: 
+-- A. Dytso and H. V. Poor, “Properties of The Conditional Mean Estimator in Poisson Noise”
+-- S. Yagli, A. Dytso, H. V. Poor, “Estimation of Bounded Normal Mean: An Alternative Proof for the Discreteness of the Least Favorable Prior”
+- /August 2019:/ See our recent submission to [https://arxiv.org/abs/1901.06294 arXiv] on recovering sorted noisy data. 
+- /July 2019:/ Two of our papers  have been presented at ISIT 2019:
+  -- A. Dytso, M. Cardone, M. S. Veedu, H. V. Poor, “On Estimation under Noisy Order Statistics” 
+  -- S. Yagli, A. Dytso, H. V. Poor, S. Shamai (Shitz), “An Upper Bound on the Number of Mass Points in the Capacity Achieving Distribution for the Amplitude Constrained Additive Gaussian Channel”
+- /June 2019:/  [http://ee.princeton.edu/people/faculty/h-vincent-poor Professor H. Vincent Poor] and I are guest editing a special issue on [https://www.mdpi.com/journal/entropy/special_issues/WN_ITP ``Wireless Networks: Information Theoretic Perspectives"] in the Entropy journal.  Please consider submitting. 
+- /June 2019:/  I  co-organized the [https://cns2019.ieee-cns.org/workshop/workshop-physical-layer-methods-security-and-privacy-5g-and-iot/commitees 5th Workshop on Physical-Layer Methods for Wireless Security] at IEEE CNS ’19, Washington DC, June 2019 (with Mario Goldenbaum, Rafael F. Schaefer, H. Vincent Poor, and Holger Boche).
+- /January 2019:/ See our recent submission to [https://arxiv.org/abs/1901.03264 arXiv]  that makes progress on the long-standing open problem of how to characterize capacity achieving distributions for amplitude constraint Gaussian noise channel.
+
+- [OldNews.html Older News]
+
+

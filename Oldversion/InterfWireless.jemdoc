@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{index.html}
+= Interference Mitigation in Wireless Networks
+
+== Brief Overview 
+
+In wireless communication, we are interested in developing low-complexity algorithms that enable efficient communication in the presents of interference from other devices. Moreover, we want to focus on models that bridge the gap between idealistic communication scenarios and constraints imposed by real-world implementations.
+My work has focused on developing the necessary machinery required for evaluating the performance of such models. The framework is rooted in novel connections between information theory, additive combinatorics, number theory and estimation theory. Many of the tools developed are of interest in their own right and lead to interesting connections between the aforementioned fields that are worthy of further exploration.
+
+
+
+== Journal Papers
+ . Dytso, A.; Bustin, R.; Tuninetti, D.;  Devroye, N.; Poor, H.V.;  Shamai, S., “On Communication through a Gaussian Channel with an MMSE Disturbance Constraint,” /IEEE Transactions on Information Theory/, Vol. 64, No. 1, January 2018.
+ . Dytso, A.; Tuninetti, D.; Devroye, N.,  “Interference as Noise: Friend or Foe?," /IEEE Transactions on Information Theory/, vol.13, no.12, Dec. 2016. [papers\TINv2.pdf New Version], [papers\FixMeasure.pdf Correction].
+. Dytso, A.; Tuninetti, D.; Devroye, N., ``On the Two-User Interference Channel With Lack of Knowledge of the Interference Codebook at One Receiver,"  /IEEE Transactions on Information Theory/, vol.61, no.3, pp.1257-1276, March 2015.
+. Dytso, A.; Rini, S.; Devroye, N.; Tuninetti, D., ``On the Capacity Region of the Two-User Interference Channel With a Cognitive Relay,"  /IEEE Transactions on Wireless Communications/, vol.13, no.12, pp.6824-6838, Dec. 2014.
+
+== Conference Papers 
+
+. Dytso, A., Devroye, N., Tuninetti, D., ``Nearly optimal non-Gaussian codes for the Gaussian interference channel', /49th Asilomar Conference on Signals, Systems and Computers, / Oct. 2015.
+. Dytso, A., Devroye, N., Tuninetti, D., `` i.i.d. Mixed Inputs and Treating Interference as Noise are gDoF Optimal for the Symmetric Gaussian Two-user Interference Channel ," /IEEE International Symposium on Information Theory (ISIT)/ ,  June 2015.
+. Dytso, A., Tuninetti, D., Devroye, N. " On the Two-user Interference Channel with Partial Codebook Knowledge at one Receiver: Symmetric Capacity to with a Gap with PAM inputs," /IEEE Information Theory Workshop(ITW)/, Jerusalem, Apr. 2015.
+. Dytso, A., Devroye, N., Tuninetti, D., "On Gaussian interference channels with mixed Gaussian and discrete inputs," /IEEE International Symposium on Information Theory (ISIT)/ , vol., no., pp.261,265, June  2014.
+. Dytso, A.; Tuninetti, D.; Devroye, N., "On discrete alphabets for the two-user Gaussian interference channel with one receiver lacking knowledge of the interfering codebook,"  /Information Theory and Applications Workshop (ITA)/, 2014 , vol., no., pp.1-8, 9-14 Feb. 2014.
+. Dytso, A.; Devroye, N.; Tuninetti, D., "On the capacity of interference channels with partial codebook knowledge,"  /  IEEE International Symposium onInformation Theory Proceedings (ISIT)/,  , vol., no., pp.2039-2043, 7-12 July 2013.
+. Dytso, A.; Devroye, N.; Tuninetti, D., "The sum-capacity of the symmetric linear deterministic Complete K-user Z-Interference Channel," /50th Annual Allerton Conference on  in Communication, Control, and Computing (Allerton),/ vol., no., pp.1232-1237, 1-5 Oct. 2012.
+.  Dytso A.,  Devroye, N., and  Tuninetti, D., ``On The Capacity of the Symmetric Interference Channel with a Cognitive Relay at High SNR,’’ /International Conference on Communications (ICC)/, Ottawa, June 2012.

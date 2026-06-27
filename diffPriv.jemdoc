@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{index.html}
+= Differential Privancy 
+
+== Brief Overview 
+
+Differential privacy has become the gold standard for rigorous privacy guarantees. This has spurred the development of many differentially-private mechanisms for various types of queries. In differential privacy, the standard method for dealing with a matrix-valued query functions is to extend the scalar-valued mechanism by adding independent and identically distributed (i.i.d.) noise to each element of the matrix. However, one can achieve substantial gains by adding correlated noise (directional noise) to the output of the query function. We formalize the study of the matrix-valued differential privacy and present a new basic mechanism that can fully exploit the structural property of the matrices - the Matrix-Variate Gaussian (MVG) mechanism. The high- level concept of the MVG mechanism is simple - adds a matrix-valued noise drawn from a matrix-variate Gaussian distribution scaled to the sensitivity of the query function to provide differential privacy guarantee. Furthermore, we introduce the concept of directional noise made possible by the design of the covariance matrix of the MVG mechanism. Directional noise allows the impact of the noise on the utility of the matrix-valued query function to be moderated by a careful design. We have also demonstrated that the optimal covariance of the directional noise can be designed using water filling algorithm from wireless communications.
+
+
+== Preprints 
+- T. Chanyaswad, A. Dytso, P. Mittal, and H. V. Poor, “MVG mechanism: Differential privacy under matrix-valued query,”  arXiv: 1801.00823
+
+== Journal
+- M. Jeong, A. Dytso, M. Cardone, [https://openreview.net/pdf?id=2EOVIvRXlv "Ranking Recovery under Privacy Considerations"] published in Transactions on Machine Learning Research.
+
+ == Conference 
+ - T. Chanyaswad, A. Dytso, P. Mittal, and H. V. Poor, “MVG mechanism: Differential privacy under matrix-valued query,” in 39th IEEE Symposium on Security and Privacy, 2017. 
